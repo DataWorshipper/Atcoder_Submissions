@@ -53523,5 +53523,57 @@
       "*1000"
     ],
     "timestamp": "Mar/06/2026 05:38"
+  },
+  "CF366669837": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2208,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cyclists",
+    "problem_url": "https://codeforces.com/contest/2208/problem/B",
+    "submission_id": "CF366669837",
+    "submission_url": "https://codeforces.com/contest/2208/submission/366669837",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Mar/14/2026 21:15"
+  },
+  "CF366674751": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2208,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bingo Candies",
+    "problem_url": "https://codeforces.com/contest/2208/problem/A",
+    "submission_id": "CF366674751",
+    "submission_url": "https://codeforces.com/contest/2208/submission/366674751",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Mar/14/2026 21:23"
+  },
+  "CF366691895": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2208,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Stamina and Tasks",
+    "problem_url": "https://codeforces.com/contest/2208/problem/C",
+    "submission_id": "CF366691895",
+    "submission_url": "https://codeforces.com/contest/2208/submission/366691895",
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Mar/14/2026 21:54"
   }
 }
