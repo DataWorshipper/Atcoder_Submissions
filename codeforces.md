@@ -48,7 +48,7 @@
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2208/problem/B"><b>B</b> - Cyclists</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2208/submission/366669837" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>implementation</code></td>
+<td><code>brute force</code> <code>games</code> <code>greedy</code> <code>implementation</code> <code>math</code> <code>sortings</code></td>
 <td align="center"><sub>Mar/14/2026 21:15</sub></td>
 </tr>
 <tr>
@@ -16076,6 +16076,6 @@
 
 <div align="center">
 
-*Last Updated: March 14, 2026 at 23:26 BDT (UTC+6)*
+*Last Updated: March 15, 2026 at 23:27 BDT (UTC+6)*
 
 </div>

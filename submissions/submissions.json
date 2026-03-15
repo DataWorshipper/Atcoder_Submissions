@@ -53525,7 +53525,7 @@
     "timestamp": "Mar/06/2026 05:38"
   },
   "CF366669837": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2208,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53536,8 +53536,12 @@
     "submission_id": "CF366669837",
     "submission_url": "https://codeforces.com/contest/2208/submission/366669837",
     "tags": [
+      "brute force",
+      "games",
       "greedy",
-      "implementation"
+      "implementation",
+      "math",
+      "sortings"
     ],
     "timestamp": "Mar/14/2026 21:15"
   },
