@@ -349,14 +349,14 @@
 <td align="center">46</td>
 <td><a href="https://codeforces.com/contest/2202/problem/C1"><b>C1</b> - Lost Civilization (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2202/submission/364392774" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>data structures</code> <code>dsu</code> <code>greedy</code></td>
+<td><code>data structures</code> <code>dsu</code> <code>greedy</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/26/2026 00:41</sub></td>
 </tr>
 <tr>
 <td align="center">47</td>
 <td><a href="https://codeforces.com/contest/2202/problem/B"><b>B</b> - ABAB Construction</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2202/submission/364388932" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code> <code>greedy</code> <code>implementation</code></td>
+<td><code>dp</code> <code>greedy</code> <code>implementation</code> <code>*1200</code></td>
 <td align="center"><sub>Feb/26/2026 00:04</sub></td>
 </tr>
 <tr>
@@ -377,91 +377,91 @@
 <td align="center">50</td>
 <td><a href="https://codeforces.com/contest/2202/problem/A"><b>A</b> - Parkour Design</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2202/submission/364052717" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code></td>
+<td><code>math</code> <code>*800</code></td>
 <td align="center"><sub>Feb/23/2026 21:02</sub></td>
 </tr>
 <tr>
 <td align="center">51</td>
 <td><a href="https://codeforces.com/contest/2192/problem/C"><b>C</b> - All-in-one Gun</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2192/submission/363921008" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>greedy</code> <code>math</code></td>
+<td><code>binary search</code> <code>greedy</code> <code>math</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/22/2026 01:14</sub></td>
 </tr>
 <tr>
 <td align="center">52</td>
 <td><a href="https://codeforces.com/contest/2192/problem/B"><b>B</b> - Flipping Binary String</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2192/submission/363875956" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>strings</code></td>
+<td><code>constructive algorithms</code> <code>strings</code> <code>*1000</code></td>
 <td align="center"><sub>Feb/21/2026 21:33</sub></td>
 </tr>
 <tr>
 <td align="center">53</td>
 <td><a href="https://codeforces.com/contest/2192/problem/A"><b>A</b> - String Rotation Game</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2192/submission/363837682" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code> <code>strings</code></td>
+<td><code>brute force</code> <code>strings</code> <code>*800</code></td>
 <td align="center"><sub>Feb/21/2026 20:43</sub></td>
 </tr>
 <tr>
 <td align="center">54</td>
 <td><a href="https://codeforces.com/contest/2195/problem/C"><b>C</b> - Dice Roll Sequence</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363132820" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code> <code>greedy</code></td>
+<td><code>dp</code> <code>greedy</code> <code>*1100</code></td>
 <td align="center"><sub>Feb/15/2026 21:39</sub></td>
 </tr>
 <tr>
 <td align="center">55</td>
 <td><a href="https://codeforces.com/contest/2195/problem/B"><b>B</b> - Heapify 1</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363088851" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>implementation</code> <code>sortings</code></td>
+<td><code>implementation</code> <code>sortings</code> <code>*900</code></td>
 <td align="center"><sub>Feb/15/2026 21:06</sub></td>
 </tr>
 <tr>
 <td align="center">56</td>
 <td><a href="https://codeforces.com/contest/2195/problem/A"><b>A</b> - Sieve of Erato67henes</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363048800" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code> <code>number theory</code></td>
+<td><code>math</code> <code>number theory</code> <code>*800</code></td>
 <td align="center"><sub>Feb/15/2026 20:47</sub></td>
 </tr>
 <tr>
 <td align="center">57</td>
 <td><a href="https://codeforces.com/contest/2197/problem/B"><b>B</b> - Array and Permutation</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362776536" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>implementation</code> <code>schedules</code> <code>sortings</code> <code>two pointers</code></td>
+<td><code>implementation</code> <code>schedules</code> <code>sortings</code> <code>two pointers</code> <code>*1100</code></td>
 <td align="center"><sub>Feb/13/2026 20:04</sub></td>
 </tr>
 <tr>
 <td align="center">58</td>
 <td><a href="https://codeforces.com/contest/2197/problem/A"><b>A</b> - Friendly Numbers</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362526177" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>expression parsing</code> <code>math</code> <code>schedules</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>expression parsing</code> <code>math</code> <code>schedules</code> <code>*800</code></td>
 <td align="center"><sub>Feb/11/2026 23:30</sub></td>
 </tr>
 <tr>
 <td align="center">59</td>
 <td><a href="https://codeforces.com/contest/2197/problem/C"><b>C</b> - Game with a Fraction</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362512474" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>games</code> <code>greedy</code> <code>math</code></td>
+<td><code>games</code> <code>greedy</code> <code>math</code> <code>*1200</code></td>
 <td align="center"><sub>Feb/11/2026 23:01</sub></td>
 </tr>
 <tr>
 <td align="center">60</td>
 <td><a href="https://codeforces.com/contest/2194/problem/C"><b>C</b> - Secret message</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/361994114" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>bitmasks</code> <code>brute force</code> <code>dp</code> <code>math</code> <code>number theory</code></td>
+<td><code>bitmasks</code> <code>brute force</code> <code>dp</code> <code>math</code> <code>number theory</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/08/2026 16:51</sub></td>
 </tr>
 <tr>
 <td align="center">61</td>
 <td><a href="https://codeforces.com/contest/2194/problem/B"><b>B</b> - Offshores</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/361949213" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>implementation</code> <code>math</code></td>
+<td><code>greedy</code> <code>implementation</code> <code>math</code> <code>*1000</code></td>
 <td align="center"><sub>Feb/08/2026 15:22</sub></td>
 </tr>
 <tr>
 <td align="center">62</td>
 <td><a href="https://codeforces.com/contest/2194/problem/A"><b>A</b> - Lawn Mower</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/361940650" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>math</code></td>
+<td><code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Feb/08/2026 15:12</sub></td>
 </tr>
 <tr>
@@ -16076,6 +16076,6 @@
 
 <div align="center">
 
-*Last Updated: March 15, 2026 at 23:27 BDT (UTC+6)*
+*Last Updated: March 19, 2026 at 23:52 BDT (UTC+6)*
 
 </div>
