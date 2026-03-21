@@ -53594,5 +53594,55 @@
       "math"
     ],
     "timestamp": "Mar/14/2026 21:54"
+  },
+  "CF367616522": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2209,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flip Flops",
+    "problem_url": "https://codeforces.com/contest/2209/problem/A",
+    "submission_id": "CF367616522",
+    "submission_url": "https://codeforces.com/contest/2209/submission/367616522",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Mar/21/2026 20:48"
+  },
+  "CF367625560": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2209,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array",
+    "problem_url": "https://codeforces.com/contest/2209/problem/B",
+    "submission_id": "CF367625560",
+    "submission_url": "https://codeforces.com/contest/2209/submission/367625560",
+    "tags": [
+      "geometry",
+      "greedy"
+    ],
+    "timestamp": "Mar/21/2026 20:57"
+  },
+  "CF367682076": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2209,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find the Zero",
+    "problem_url": "https://codeforces.com/contest/2209/problem/C",
+    "submission_id": "CF367682076",
+    "submission_url": "https://codeforces.com/contest/2209/submission/367682076",
+    "tags": [
+      "constructive algorithms",
+      "interactive"
+    ],
+    "timestamp": "Mar/21/2026 22:29"
   }
 }
