@@ -53612,7 +53612,7 @@
     "timestamp": "Mar/21/2026 20:48"
   },
   "CF367625560": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2209,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53623,7 +53623,6 @@
     "submission_id": "CF367625560",
     "submission_url": "https://codeforces.com/contest/2209/submission/367625560",
     "tags": [
-      "geometry",
       "greedy"
     ],
     "timestamp": "Mar/21/2026 20:57"

@@ -41,7 +41,7 @@
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2209/problem/B"><b>B</b> - Array</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2209/submission/367625560" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>geometry</code> <code>greedy</code></td>
+<td><code>greedy</code></td>
 <td align="center"><sub>Mar/21/2026 20:57</sub></td>
 </tr>
 <tr>
@@ -16097,6 +16097,6 @@
 
 <div align="center">
 
-*Last Updated: March 21, 2026 at 23:25 BDT (UTC+6)*
+*Last Updated: March 22, 2026 at 23:24 BDT (UTC+6)*
 
 </div>
