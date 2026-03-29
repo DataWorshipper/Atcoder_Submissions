@@ -53643,5 +53643,110 @@
       "interactive"
     ],
     "timestamp": "Mar/21/2026 22:29"
+  },
+  "CF368521329": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2211,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Antimedian Deletion",
+    "problem_url": "https://codeforces.com/contest/2211/problem/A",
+    "submission_id": "CF368521329",
+    "submission_url": "https://codeforces.com/contest/2211/submission/368521329",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Mar/28/2026 20:51"
+  },
+  "CF368547887": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2211,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mickey Mouse Constructive",
+    "problem_url": "https://codeforces.com/contest/2211/problem/B",
+    "submission_id": "CF368547887",
+    "submission_url": "https://codeforces.com/contest/2211/submission/368547887",
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Mar/28/2026 21:25"
+  },
+  "CF368580009": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2211,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Equal Multisets (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2211/problem/C1",
+    "submission_id": "CF368580009",
+    "submission_url": "https://codeforces.com/contest/2211/submission/368580009",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ],
+    "timestamp": "Mar/28/2026 22:29"
+  },
+  "CF368693285": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2210,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Simple Sequence",
+    "problem_url": "https://codeforces.com/contest/2210/problem/A",
+    "submission_id": "CF368693285",
+    "submission_url": "https://codeforces.com/contest/2210/submission/368693285",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory"
+    ],
+    "timestamp": "Mar/29/2026 20:36"
+  },
+  "CF368713390": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2210,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Simply Sitting on Chairs",
+    "problem_url": "https://codeforces.com/contest/2210/problem/B",
+    "submission_id": "CF368713390",
+    "submission_url": "https://codeforces.com/contest/2210/submission/368713390",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Mar/29/2026 20:55"
+  },
+  "CF368762139": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2210,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "A Simple GCD Problem (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2210/problem/C1",
+    "submission_id": "CF368762139",
+    "submission_url": "https://codeforces.com/contest/2210/submission/368762139",
+    "tags": [
+      "greedy",
+      "number theory"
+    ],
+    "timestamp": "Mar/29/2026 22:32"
   }
 }
