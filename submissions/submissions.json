@@ -53662,7 +53662,7 @@
     "timestamp": "Mar/28/2026 20:51"
   },
   "CF368547887": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2211,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53673,6 +53673,7 @@
     "submission_id": "CF368547887",
     "submission_url": "https://codeforces.com/contest/2211/submission/368547887",
     "tags": [
+      "constructive algorithms",
       "dp",
       "greedy",
       "math"

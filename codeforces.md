@@ -62,7 +62,7 @@
 <td align="center">5</td>
 <td><a href="https://codeforces.com/contest/2211/problem/B"><b>B</b> - Mickey Mouse Constructive</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2211/submission/368547887" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code> <code>greedy</code> <code>math</code></td>
+<td><code>constructive algorithms</code> <code>dp</code> <code>greedy</code> <code>math</code></td>
 <td align="center"><sub>Mar/28/2026 21:25</sub></td>
 </tr>
 <tr>
@@ -16139,6 +16139,6 @@
 
 <div align="center">
 
-*Last Updated: March 29, 2026 at 23:29 BDT (UTC+6)*
+*Last Updated: March 30, 2026 at 23:53 BDT (UTC+6)*
 
 </div>
