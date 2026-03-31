@@ -55,7 +55,7 @@
 <td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2211/problem/C1"><b>C1</b> - Equal Multisets (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2211/submission/368580009" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>greedy</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>greedy</code> <code>two pointers</code></td>
 <td align="center"><sub>Mar/28/2026 22:29</sub></td>
 </tr>
 <tr>
@@ -16139,6 +16139,6 @@
 
 <div align="center">
 
-*Last Updated: March 30, 2026 at 23:53 BDT (UTC+6)*
+*Last Updated: March 31, 2026 at 23:56 BDT (UTC+6)*
 
 </div>
