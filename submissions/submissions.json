@@ -53719,7 +53719,7 @@
     "timestamp": "Mar/29/2026 20:36"
   },
   "CF368713390": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2210,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53730,6 +53730,7 @@
     "submission_id": "CF368713390",
     "submission_url": "https://codeforces.com/contest/2210/submission/368713390",
     "tags": [
+      "data structures",
       "greedy"
     ],
     "timestamp": "Mar/29/2026 20:55"
@@ -53750,5 +53751,21 @@
       "number theory"
     ],
     "timestamp": "Mar/29/2026 22:32"
+  },
+  "CF369244884": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2214,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd One Out",
+    "problem_url": "https://codeforces.com/contest/2214/problem/A",
+    "submission_id": "CF369244884",
+    "submission_url": "https://codeforces.com/contest/2214/submission/369244884",
+    "tags": [
+      "*special"
+    ],
+    "timestamp": "Apr/01/2026 22:15"
   }
 }
