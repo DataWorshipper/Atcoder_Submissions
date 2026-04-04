@@ -53767,5 +53767,94 @@
       "*special"
     ],
     "timestamp": "Apr/01/2026 22:15"
+  },
+  "CF369499485": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1566,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "MIN-MEX Cut",
+    "problem_url": "https://codeforces.com/contest/1566/problem/B",
+    "submission_id": "CF369499485",
+    "submission_url": "https://codeforces.com/contest/1566/submission/369499485",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/03/2026 23:46"
+  },
+  "CF369615258": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The 67th 6-7 Integer Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/B",
+    "submission_id": "CF369615258",
+    "submission_url": "https://codeforces.com/contest/2218/submission/369615258",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Apr/04/2026 20:39"
+  },
+  "CF369623650": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The 67th Integer Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/A",
+    "submission_id": "CF369623650",
+    "submission_url": "https://codeforces.com/contest/2218/submission/369623650",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Apr/04/2026 20:41"
+  },
+  "CF369643917": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The 67th Permutation Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/C",
+    "submission_id": "CF369643917",
+    "submission_url": "https://codeforces.com/contest/2218/submission/369643917",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Apr/04/2026 20:49"
+  },
+  "CF369715398": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The 67th OEIS Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/D",
+    "submission_id": "CF369715398",
+    "submission_url": "https://codeforces.com/contest/2218/submission/369715398",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/04/2026 21:36"
   }
 }
