@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2218/problem/D"><b>D</b> - The 67th OEIS Problem</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2218/submission/369715398" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>math</code> <code>number theory</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>number theory</code></td>
 <td align="center"><sub>Apr/04/2026 21:36</sub></td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2218/problem/A"><b>A</b> - The 67th Integer Problem</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2218/submission/369623650" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code></td>
+<td><code>brute force</code> <code>games</code> <code>implementation</code> <code>math</code></td>
 <td align="center"><sub>Apr/04/2026 20:41</sub></td>
 </tr>
 <tr>
@@ -16174,6 +16174,6 @@
 
 <div align="center">
 
-*Last Updated: April 04, 2026 at 23:29 BDT (UTC+6)*
+*Last Updated: April 05, 2026 at 23:29 BDT (UTC+6)*
 
 </div>
