@@ -53753,7 +53753,7 @@
     "timestamp": "Mar/29/2026 22:32"
   },
   "CF369244884": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2214,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53764,7 +53764,9 @@
     "submission_id": "CF369244884",
     "submission_url": "https://codeforces.com/contest/2214/submission/369244884",
     "tags": [
-      "*special"
+      "*special",
+      "graph matchings",
+      "implementation"
     ],
     "timestamp": "Apr/01/2026 22:15"
   },
@@ -53893,7 +53895,7 @@
     "timestamp": "Apr/07/2026 21:16"
   },
   "CF370167457": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2217,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53904,7 +53906,9 @@
     "submission_id": "CF370167457",
     "submission_url": "https://codeforces.com/contest/2217/submission/370167457",
     "tags": [
-      "math"
+      "chinese remainder theorem",
+      "math",
+      "number theory"
     ],
     "timestamp": "Apr/07/2026 21:56"
   }

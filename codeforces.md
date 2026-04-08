@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2217/problem/C"><b>C</b> - Grid Covering</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2217/submission/370167457" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code></td>
+<td><code>chinese remainder theorem</code> <code>math</code> <code>number theory</code></td>
 <td align="center"><sub>Apr/07/2026 21:56</sub></td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@
 <td align="center">9</td>
 <td><a href="https://codeforces.com/contest/2214/problem/A"><b>A</b> - Odd One Out</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2214/submission/369244884" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>*special</code></td>
+<td><code>*special</code> <code>graph matchings</code> <code>implementation</code></td>
 <td align="center"><sub>Apr/01/2026 22:15</sub></td>
 </tr>
 <tr>
@@ -16195,6 +16195,6 @@
 
 <div align="center">
 
-*Last Updated: April 07, 2026 at 23:57 BDT (UTC+6)*
+*Last Updated: April 09, 2026 at 00:06 BDT (UTC+6)*
 
 </div>
