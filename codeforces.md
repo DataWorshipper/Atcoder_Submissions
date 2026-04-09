@@ -48,7 +48,7 @@
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2217/problem/A"><b>A</b> - The Equalizer</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2217/submission/370122338" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td>-</td>
+<td><code>math</code></td>
 <td align="center"><sub>Apr/07/2026 20:41</sub></td>
 </tr>
 <tr>
@@ -16195,6 +16195,6 @@
 
 <div align="center">
 
-*Last Updated: April 09, 2026 at 00:06 BDT (UTC+6)*
+*Last Updated: April 09, 2026 at 23:57 BDT (UTC+6)*
 
 </div>

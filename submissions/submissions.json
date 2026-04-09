@@ -53864,7 +53864,7 @@
     "timestamp": "Apr/04/2026 21:36"
   },
   "CF370122338": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2217,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -53874,7 +53874,9 @@
     "problem_url": "https://codeforces.com/contest/2217/problem/A",
     "submission_id": "CF370122338",
     "submission_url": "https://codeforces.com/contest/2217/submission/370122338",
-    "tags": [],
+    "tags": [
+      "math"
+    ],
     "timestamp": "Apr/07/2026 20:41"
   },
   "CF370148986": {
