@@ -1,4 +1,20 @@
 {
+  "AC74840729": {
+    "contest_id": "abc453",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc453/abc453B Sensor_Data_Logging.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Sensor Data Logging",
+    "problem_url": "https://atcoder.jp/contests/abc453/tasks/abc453_b",
+    "submission_id": "AC74840729",
+    "submission_url": "https://atcoder.jp/contests/abc453/submissions/74840729",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/11/2026 17:37"
+  },
   "AC74863353": {
     "contest_id": "abc453",
     "language": "C++23 (GCC 15.2.0)",
