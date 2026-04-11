@@ -1,4 +1,20 @@
 {
+  "AC74863353": {
+    "contest_id": "abc453",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc453/abc453C Sneaking_Glances.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sneaking Glances",
+    "problem_url": "https://atcoder.jp/contests/abc453/tasks/abc453_c",
+    "submission_id": "AC74863353",
+    "submission_url": "https://atcoder.jp/contests/abc453/submissions/74863353",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Apr/11/2026 18:03"
+  },
   "AC74878342": {
     "contest_id": "abc453",
     "language": "C++23 (GCC 15.2.0)",
