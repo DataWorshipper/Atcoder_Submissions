@@ -1,4 +1,20 @@
 {
+  "AC74878342": {
+    "contest_id": "abc453",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc453/abc453D Go_Straight.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Go Straight",
+    "problem_url": "https://atcoder.jp/contests/abc453/tasks/abc453_d",
+    "submission_id": "AC74878342",
+    "submission_url": "https://atcoder.jp/contests/abc453/submissions/74878342",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Apr/11/2026 18:33"
+  },
   "AC75837668": {
     "contest_id": "abc458",
     "language": "C++23 (GCC 15.2.0)",
