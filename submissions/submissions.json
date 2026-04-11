@@ -1,4 +1,20 @@
 {
+  "AC74832665": {
+    "contest_id": "abc453",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc453/abc453A Trimo.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Trimo",
+    "problem_url": "https://atcoder.jp/contests/abc453/tasks/abc453_a",
+    "submission_id": "AC74832665",
+    "submission_url": "https://atcoder.jp/contests/abc453/submissions/74832665",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/11/2026 17:32"
+  },
   "AC74840729": {
     "contest_id": "abc453",
     "language": "C++23 (GCC 15.2.0)",
