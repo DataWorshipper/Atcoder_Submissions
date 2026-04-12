@@ -53913,5 +53913,25 @@
       "number theory"
     ],
     "timestamp": "Apr/07/2026 21:56"
+  },
+  "CF370713441": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2036,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "XORificator 3000",
+    "problem_url": "https://codeforces.com/contest/2036/problem/F",
+    "submission_id": "CF370713441",
+    "submission_url": "https://codeforces.com/contest/2036/submission/370713441",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "number theory",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Apr/12/2026 00:48"
   }
 }
