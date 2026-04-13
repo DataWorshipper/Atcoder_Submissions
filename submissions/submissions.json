@@ -53933,5 +53933,36 @@
       "*1900"
     ],
     "timestamp": "Apr/12/2026 00:48"
+  },
+  "CF370970261": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2220,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blocked",
+    "problem_url": "https://codeforces.com/contest/2220/problem/A",
+    "submission_id": "CF370970261",
+    "submission_url": "https://codeforces.com/contest/2220/submission/370970261",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Apr/13/2026 20:47"
+  },
+  "CF371010093": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2220,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "OIE Excursion",
+    "problem_url": "https://codeforces.com/contest/2220/problem/B",
+    "submission_id": "CF371010093",
+    "submission_url": "https://codeforces.com/contest/2220/submission/371010093",
+    "tags": [],
+    "timestamp": "Apr/13/2026 21:50"
   }
 }
