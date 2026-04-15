@@ -53985,5 +53985,41 @@
       "greedy"
     ],
     "timestamp": "Apr/13/2026 21:50"
+  },
+  "CF371287451": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 78,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Haiku",
+    "problem_url": "https://codeforces.com/contest/78/problem/A",
+    "submission_id": "CF371287451",
+    "submission_url": "https://codeforces.com/contest/78/submission/371287451",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/15/2026 23:45"
+  },
+  "CF371288980": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1712,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wonderful Permutation",
+    "problem_url": "https://codeforces.com/contest/1712/problem/A",
+    "submission_id": "CF371288980",
+    "submission_url": "https://codeforces.com/contest/1712/submission/371288980",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/15/2026 23:57"
   }
 }
