@@ -54021,5 +54021,113 @@
       "*800"
     ],
     "timestamp": "Apr/15/2026 23:57"
+  },
+  "CF371290660": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1690,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Black and White Stripe",
+    "problem_url": "https://codeforces.com/contest/1690/problem/D",
+    "submission_id": "CF371290660",
+    "submission_url": "https://codeforces.com/contest/1690/submission/371290660",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Apr/16/2026 00:11"
+  },
+  "CF371297703": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1716,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Chain",
+    "problem_url": "https://codeforces.com/contest/1716/problem/B",
+    "submission_id": "CF371297703",
+    "submission_url": "https://codeforces.com/contest/1716/submission/371297703",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/16/2026 01:20"
+  },
+  "CF371298979": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 976,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimum Binary Number",
+    "problem_url": "https://codeforces.com/contest/976/problem/A",
+    "submission_id": "CF371298979",
+    "submission_url": "https://codeforces.com/contest/976/submission/371298979",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/16/2026 01:33"
+  },
+  "CF371301071": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1166,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Silent Classroom",
+    "problem_url": "https://codeforces.com/contest/1166/problem/A",
+    "submission_id": "CF371301071",
+    "submission_url": "https://codeforces.com/contest/1166/submission/371301071",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Apr/16/2026 01:57"
+  },
+  "CF371304539": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 41,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF371304539",
+    "submission_url": "https://codeforces.com/contest/41/submission/371304539",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/16/2026 02:47"
+  },
+  "CF371304910": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1248,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grow The Tree",
+    "problem_url": "https://codeforces.com/contest/1248/problem/B",
+    "submission_id": "CF371304910",
+    "submission_url": "https://codeforces.com/contest/1248/submission/371304910",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/16/2026 02:54"
   }
 }
