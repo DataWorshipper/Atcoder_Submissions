@@ -54129,5 +54129,54 @@
       "*900"
     ],
     "timestamp": "Apr/16/2026 02:54"
+  },
+  "CF371988810": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2225,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Number Between Two Others",
+    "problem_url": "https://codeforces.com/contest/2225/problem/A",
+    "submission_id": "CF371988810",
+    "submission_url": "https://codeforces.com/contest/2225/submission/371988810",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Apr/21/2026 20:39"
+  },
+  "CF372014259": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2225,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alternating String",
+    "problem_url": "https://codeforces.com/contest/2225/problem/B",
+    "submission_id": "CF372014259",
+    "submission_url": "https://codeforces.com/contest/2225/submission/372014259",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "Apr/21/2026 21:09"
+  },
+  "CF372026336": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2225,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Red-Black Pairs",
+    "problem_url": "https://codeforces.com/contest/2225/problem/C",
+    "submission_id": "CF372026336",
+    "submission_url": "https://codeforces.com/contest/2225/submission/372026336",
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Apr/21/2026 21:30"
   }
 }
