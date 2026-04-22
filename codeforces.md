@@ -41,14 +41,14 @@
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2225/problem/B"><b>B</b> - Alternating String</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2225/submission/372014259" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code></td>
+<td><code>brute force</code> <code>greedy</code></td>
 <td align="center"><sub>Apr/21/2026 21:09</sub></td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2225/problem/A"><b>A</b> - A Number Between Two Others</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2225/submission/371988810" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code></td>
+<td><code>chinese remainder theorem</code> <code>interactive</code> <code>math</code> <code>probabilities</code></td>
 <td align="center"><sub>Apr/21/2026 20:39</sub></td>
 </tr>
 <tr>
@@ -16272,6 +16272,6 @@
 
 <div align="center">
 
-*Last Updated: April 21, 2026 at 23:58 BDT (UTC+6)*
+*Last Updated: April 23, 2026 at 00:00 BDT (UTC+6)*
 
 </div>

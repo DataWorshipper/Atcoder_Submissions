@@ -54131,7 +54131,7 @@
     "timestamp": "Apr/16/2026 02:54"
   },
   "CF371988810": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2225,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -54142,12 +54142,15 @@
     "submission_id": "CF371988810",
     "submission_url": "https://codeforces.com/contest/2225/submission/371988810",
     "tags": [
-      "math"
+      "chinese remainder theorem",
+      "interactive",
+      "math",
+      "probabilities"
     ],
     "timestamp": "Apr/21/2026 20:39"
   },
   "CF372014259": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2225,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -54158,7 +54161,8 @@
     "submission_id": "CF372014259",
     "submission_url": "https://codeforces.com/contest/2225/submission/372014259",
     "tags": [
-      "brute force"
+      "brute force",
+      "greedy"
     ],
     "timestamp": "Apr/21/2026 21:09"
   },
