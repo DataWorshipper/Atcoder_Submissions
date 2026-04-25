@@ -54216,5 +54216,38 @@
       "*800"
     ],
     "timestamp": "Apr/24/2026 01:34"
+  },
+  "CF372477050": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2222,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Wonderful Contest",
+    "problem_url": "https://codeforces.com/contest/2222/problem/A",
+    "submission_id": "CF372477050",
+    "submission_url": "https://codeforces.com/contest/2222/submission/372477050",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Apr/25/2026 20:41"
+  },
+  "CF372502690": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2222,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Artistic Balance Tree",
+    "problem_url": "https://codeforces.com/contest/2222/problem/B",
+    "submission_id": "CF372502690",
+    "submission_url": "https://codeforces.com/contest/2222/submission/372502690",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Apr/25/2026 21:39"
   }
 }
