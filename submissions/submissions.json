@@ -54218,7 +54218,7 @@
     "timestamp": "Apr/24/2026 01:34"
   },
   "CF372477050": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2222,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -54229,6 +54229,7 @@
     "submission_id": "CF372477050",
     "submission_url": "https://codeforces.com/contest/2222/submission/372477050",
     "tags": [
+      "brute force",
       "math"
     ],
     "timestamp": "Apr/25/2026 20:41"
@@ -54249,5 +54250,22 @@
       "sortings"
     ],
     "timestamp": "Apr/25/2026 21:39"
+  },
+  "CF372519658": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2222,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Median Partition",
+    "problem_url": "https://codeforces.com/contest/2222/problem/C",
+    "submission_id": "CF372519658",
+    "submission_url": "https://codeforces.com/contest/2222/submission/372519658",
+    "tags": [
+      "dp",
+      "math"
+    ],
+    "timestamp": "Apr/25/2026 22:36"
   }
 }
