@@ -54230,6 +54230,7 @@
     "submission_url": "https://codeforces.com/contest/2222/submission/372477050",
     "tags": [
       "brute force",
+      "dp",
       "math"
     ],
     "timestamp": "Apr/25/2026 20:41"
@@ -54285,5 +54286,113 @@
       "*800"
     ],
     "timestamp": "Apr/27/2026 00:23"
+  },
+  "CF372754606": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1020,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Badge",
+    "problem_url": "https://codeforces.com/contest/1020/problem/B",
+    "submission_id": "CF372754606",
+    "submission_url": "https://codeforces.com/contest/1020/submission/372754606",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1000"
+    ],
+    "timestamp": "Apr/28/2026 02:35"
+  },
+  "CF372755966": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 344,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF372755966",
+    "submission_url": "https://codeforces.com/contest/344/submission/372755966",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2026 03:05"
+  },
+  "CF372756132": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1632,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ABC",
+    "problem_url": "https://codeforces.com/contest/1632/problem/A",
+    "submission_id": "CF372756132",
+    "submission_url": "https://codeforces.com/contest/1632/submission/372756132",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2026 03:09"
+  },
+  "CF372837654": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2226,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Disturbing Distribution",
+    "problem_url": "https://codeforces.com/contest/2226/problem/A",
+    "submission_id": "CF372837654",
+    "submission_url": "https://codeforces.com/contest/2226/submission/372837654",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Apr/28/2026 21:06"
+  },
+  "CF372865719": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2226,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Everything Everywhere",
+    "problem_url": "https://codeforces.com/contest/2226/problem/B",
+    "submission_id": "CF372865719",
+    "submission_url": "https://codeforces.com/contest/2226/submission/372865719",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/28/2026 22:24"
+  },
+  "CF372875588": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2226,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mental Monumental (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2226/problem/C",
+    "submission_id": "CF372875588",
+    "submission_url": "https://codeforces.com/contest/2226/submission/372875588",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "two pointers"
+    ],
+    "timestamp": "Apr/28/2026 23:29"
   }
 }
