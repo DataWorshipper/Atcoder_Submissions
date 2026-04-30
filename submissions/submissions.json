@@ -52686,7 +52686,8 @@
     "submission_id": "CF364317304",
     "submission_url": "https://codeforces.com/contest/2203/submission/364317304",
     "tags": [
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/25/2026 20:40"
   },
@@ -52706,7 +52707,8 @@
       "dp",
       "fft",
       "greedy",
-      "math"
+      "math",
+      "*1000"
     ],
     "timestamp": "Feb/25/2026 20:59"
   },
@@ -52749,7 +52751,7 @@
     "timestamp": "Feb/26/2026 00:41"
   },
   "CF364504713": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52761,7 +52763,8 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364504713",
     "tags": [
       "implementation",
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/26/2026 21:02"
   },
@@ -52778,12 +52781,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364505560",
     "tags": [
       "brute force",
-      "constructive algorithms"
+      "constructive algorithms",
+      "*800"
     ],
     "timestamp": "Feb/26/2026 21:03"
   },
   "CF364544645": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52795,12 +52799,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364544645",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1500"
     ],
     "timestamp": "Feb/26/2026 23:37"
   },
   "CF364647738": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52811,7 +52816,8 @@
     "submission_id": "CF364647738",
     "submission_url": "https://codeforces.com/contest/2200/submission/364647738",
     "tags": [
-      "greedy"
+      "greedy",
+      "*800"
     ],
     "timestamp": "Feb/27/2026 20:40"
   },
@@ -52830,12 +52836,13 @@
       "bitmasks",
       "brute force",
       "greedy",
-      "sortings"
+      "sortings",
+      "*800"
     ],
     "timestamp": "Feb/27/2026 20:43"
   },
   "CF364659723": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52848,7 +52855,8 @@
     "tags": [
       "brute force",
       "greedy",
-      "strings"
+      "strings",
+      "*900"
     ],
     "timestamp": "Feb/27/2026 20:48"
   },
@@ -52865,7 +52873,8 @@
     "submission_url": "https://codeforces.com/contest/2200/submission/364731914",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1300"
     ],
     "timestamp": "Feb/27/2026 22:47"
   },
@@ -54394,5 +54403,77 @@
       "two pointers"
     ],
     "timestamp": "Apr/28/2026 23:29"
+  },
+  "CF373071973": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2227,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Koshary",
+    "problem_url": "https://codeforces.com/contest/2227/problem/A",
+    "submission_id": "CF373071973",
+    "submission_url": "https://codeforces.com/contest/2227/submission/373071973",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Apr/30/2026 20:36"
+  },
+  "CF373078322": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2227,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Party Monster",
+    "problem_url": "https://codeforces.com/contest/2227/problem/B",
+    "submission_id": "CF373078322",
+    "submission_url": "https://codeforces.com/contest/2227/submission/373078322",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Apr/30/2026 20:39"
+  },
+  "CF373100848": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2227,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Snowfall",
+    "problem_url": "https://codeforces.com/contest/2227/problem/C",
+    "submission_id": "CF373100848",
+    "submission_url": "https://codeforces.com/contest/2227/submission/373100848",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Apr/30/2026 20:57"
+  },
+  "CF373117618": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2227,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Palindromex",
+    "problem_url": "https://codeforces.com/contest/2227/problem/D",
+    "submission_id": "CF373117618",
+    "submission_url": "https://codeforces.com/contest/2227/submission/373117618",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "timestamp": "Apr/30/2026 21:18"
   }
 }
