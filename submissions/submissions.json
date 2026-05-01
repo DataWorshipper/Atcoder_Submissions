@@ -54475,5 +54475,22 @@
       "two pointers"
     ],
     "timestamp": "Apr/30/2026 21:18"
+  },
+  "CF373225186": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1711,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Perfect Permutation",
+    "problem_url": "https://codeforces.com/contest/1711/problem/A",
+    "submission_id": "CF373225186",
+    "submission_url": "https://codeforces.com/contest/1711/submission/373225186",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "May/01/2026 18:08"
   }
 }
