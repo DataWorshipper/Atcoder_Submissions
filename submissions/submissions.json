@@ -54492,5 +54492,77 @@
       "*800"
     ],
     "timestamp": "May/01/2026 18:08"
+  },
+  "CF373270333": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1698,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "XOR Mixup",
+    "problem_url": "https://codeforces.com/contest/1698/problem/A",
+    "submission_id": "CF373270333",
+    "submission_url": "https://codeforces.com/contest/1698/submission/373270333",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "May/02/2026 02:25"
+  },
+  "CF373271865": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 427,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Police Recruits",
+    "problem_url": "https://codeforces.com/contest/427/problem/A",
+    "submission_id": "CF373271865",
+    "submission_url": "https://codeforces.com/contest/427/submission/373271865",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/02/2026 02:55"
+  },
+  "CF373320148": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 231,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/231/problem/A",
+    "submission_id": "CF373320148",
+    "submission_url": "https://codeforces.com/contest/231/submission/373320148",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/02/2026 17:18"
+  },
+  "CF373320464": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1020,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Badge",
+    "problem_url": "https://codeforces.com/contest/1020/problem/B",
+    "submission_id": "CF373320464",
+    "submission_url": "https://codeforces.com/contest/1020/submission/373320464",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1000"
+    ],
+    "timestamp": "May/02/2026 17:22"
   }
 }
