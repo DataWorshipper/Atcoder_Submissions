@@ -54583,5 +54583,95 @@
       "*800"
     ],
     "timestamp": "May/03/2026 05:24"
+  },
+  "CF373445454": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 688,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Opponents",
+    "problem_url": "https://codeforces.com/contest/688/problem/A",
+    "submission_id": "CF373445454",
+    "submission_url": "https://codeforces.com/contest/688/submission/373445454",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/04/2026 00:12"
+  },
+  "CF373498146": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 802,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Fake News (easy)",
+    "problem_url": "https://codeforces.com/contest/802/problem/G1",
+    "submission_id": "CF373498146",
+    "submission_url": "https://codeforces.com/contest/802/submission/373498146",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/04/2026 16:54"
+  },
+  "CF373499189": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2148,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pacer",
+    "problem_url": "https://codeforces.com/contest/2148/problem/C",
+    "submission_id": "CF373499189",
+    "submission_url": "https://codeforces.com/contest/2148/submission/373499189",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/04/2026 17:09"
+  },
+  "CF373499702": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2132,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "The Cunning Seller (easy version)",
+    "problem_url": "https://codeforces.com/contest/2132/problem/C1",
+    "submission_id": "CF373499702",
+    "submission_url": "https://codeforces.com/contest/2132/submission/373499702",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/04/2026 17:16"
+  },
+  "CF373516668": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1933,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Turtle Puzzle: Rearrange and Negate",
+    "problem_url": "https://codeforces.com/contest/1933/problem/A",
+    "submission_id": "CF373516668",
+    "submission_url": "https://codeforces.com/contest/1933/submission/373516668",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/04/2026 20:37"
   }
 }
