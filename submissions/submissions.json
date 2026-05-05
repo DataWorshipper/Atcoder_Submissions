@@ -54673,5 +54673,217 @@
       "*800"
     ],
     "timestamp": "May/04/2026 20:37"
+  },
+  "CF373542422": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1741,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Compare T-Shirt Sizes",
+    "problem_url": "https://codeforces.com/contest/1741/problem/A",
+    "submission_id": "CF373542422",
+    "submission_url": "https://codeforces.com/contest/1741/submission/373542422",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/05/2026 01:40"
+  },
+  "CF373542629": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 208,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF373542629",
+    "submission_url": "https://codeforces.com/contest/208/submission/373542629",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/05/2026 01:44"
+  },
+  "CF373543087": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 757,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gotta Catch Em' All!",
+    "problem_url": "https://codeforces.com/contest/757/problem/A",
+    "submission_id": "CF373543087",
+    "submission_url": "https://codeforces.com/contest/757/submission/373543087",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/05/2026 01:53"
+  },
+  "CF373543945": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/1742/problem/A",
+    "submission_id": "CF373543945",
+    "submission_url": "https://codeforces.com/contest/1742/submission/373543945",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/05/2026 02:10"
+  },
+  "CF373545413": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 139,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petr and Book",
+    "problem_url": "https://codeforces.com/contest/139/problem/A",
+    "submission_id": "CF373545413",
+    "submission_url": "https://codeforces.com/contest/139/submission/373545413",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/05/2026 02:38"
+  },
+  "CF373545654": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2148,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lasers",
+    "problem_url": "https://codeforces.com/contest/2148/problem/B",
+    "submission_id": "CF373545654",
+    "submission_url": "https://codeforces.com/contest/2148/submission/373545654",
+    "tags": [
+      "geometry",
+      "*800"
+    ],
+    "timestamp": "May/05/2026 02:43"
+  },
+  "CF373545719": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1633,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minority",
+    "problem_url": "https://codeforces.com/contest/1633/problem/B",
+    "submission_id": "CF373545719",
+    "submission_url": "https://codeforces.com/contest/1633/submission/373545719",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/05/2026 02:45"
+  },
+  "CF373546473": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1411,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fair Numbers",
+    "problem_url": "https://codeforces.com/contest/1411/problem/B",
+    "submission_id": "CF373546473",
+    "submission_url": "https://codeforces.com/contest/1411/submission/373546473",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "May/05/2026 03:01"
+  },
+  "CF373546554": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1979,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "XOR Sequences",
+    "problem_url": "https://codeforces.com/contest/1979/problem/B",
+    "submission_id": "CF373546554",
+    "submission_url": "https://codeforces.com/contest/1979/submission/373546554",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "May/05/2026 03:03"
+  },
+  "CF373546986": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1886,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Three",
+    "problem_url": "https://codeforces.com/contest/1886/problem/A",
+    "submission_id": "CF373546986",
+    "submission_url": "https://codeforces.com/contest/1886/submission/373546986",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/05/2026 03:15"
+  },
+  "CF373547647": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cypher",
+    "problem_url": "https://codeforces.com/contest/1703/problem/C",
+    "submission_id": "CF373547647",
+    "submission_url": "https://codeforces.com/contest/1703/submission/373547647",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/05/2026 03:34"
+  },
+  "CF373547712": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1555,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "PizzaForces",
+    "problem_url": "https://codeforces.com/contest/1555/problem/A",
+    "submission_id": "CF373547712",
+    "submission_url": "https://codeforces.com/contest/1555/submission/373547712",
+    "tags": [
+      "brute force",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/05/2026 03:36"
   }
 }
