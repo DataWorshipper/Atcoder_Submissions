@@ -54957,5 +54957,61 @@
       "*900"
     ],
     "timestamp": "May/08/2026 16:22"
+  },
+  "CF373955284": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1561,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Simply Strange Sort",
+    "problem_url": "https://codeforces.com/contest/1561/problem/A",
+    "submission_id": "CF373955284",
+    "submission_url": "https://codeforces.com/contest/1561/submission/373955284",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/09/2026 03:14"
+  },
+  "CF373955325": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1561,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Simply Strange Sort",
+    "problem_url": "https://codeforces.com/contest/1561/problem/A",
+    "submission_id": "CF373955325",
+    "submission_url": "https://codeforces.com/contest/1561/submission/373955325",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/09/2026 03:14"
+  },
+  "CF374018165": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1740,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Factorise N+M",
+    "problem_url": "https://codeforces.com/contest/1740/problem/A",
+    "submission_id": "CF374018165",
+    "submission_url": "https://codeforces.com/contest/1740/submission/374018165",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/09/2026 20:16"
   }
 }
