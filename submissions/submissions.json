@@ -55013,5 +55013,77 @@
       "*800"
     ],
     "timestamp": "May/09/2026 20:16"
+  },
+  "CF374045137": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1912,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Kim's Quest",
+    "problem_url": "https://codeforces.com/contest/1912/problem/K",
+    "submission_id": "CF374045137",
+    "submission_url": "https://codeforces.com/contest/1912/submission/374045137",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/10/2026 01:53"
+  },
+  "CF374046283": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2224,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Zhily and Array Operating",
+    "problem_url": "https://codeforces.com/contest/2224/problem/A",
+    "submission_id": "CF374046283",
+    "submission_url": "https://codeforces.com/contest/2224/submission/374046283",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "May/10/2026 02:14"
+  },
+  "CF374048114": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2224,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Zhily and Mex and Max",
+    "problem_url": "https://codeforces.com/contest/2224/problem/B",
+    "submission_id": "CF374048114",
+    "submission_url": "https://codeforces.com/contest/2224/submission/374048114",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "May/10/2026 02:51"
+  },
+  "CF374048902": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2224,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Zhily and Bracket Swapping",
+    "problem_url": "https://codeforces.com/contest/2224/problem/C",
+    "submission_id": "CF374048902",
+    "submission_url": "https://codeforces.com/contest/2224/submission/374048902",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "May/10/2026 03:10"
   }
 }
