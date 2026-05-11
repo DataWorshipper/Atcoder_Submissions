@@ -55085,5 +55085,25 @@
       "greedy"
     ],
     "timestamp": "May/10/2026 03:10"
+  },
+  "CF374220610": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1824,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "LuoTianyi and the Floating Islands (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1824/problem/B1",
+    "submission_id": "CF374220610",
+    "submission_url": "https://codeforces.com/contest/1824/submission/374220610",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/12/2026 00:06"
   }
 }
