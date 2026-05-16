@@ -55105,5 +55105,22 @@
       "*1800"
     ],
     "timestamp": "May/12/2026 00:06"
+  },
+  "CF374746820": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2228,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Marisa Steals Reimu's Takeout",
+    "problem_url": "https://codeforces.com/contest/2228/problem/A",
+    "submission_id": "CF374746820",
+    "submission_url": "https://codeforces.com/contest/2228/submission/374746820",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "May/16/2026 20:41"
   }
 }
