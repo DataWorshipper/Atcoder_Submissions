@@ -1,4 +1,20 @@
 {
+  "AC75857475": {
+    "contest_id": "abc458",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc458/abc458C C_Stands_for_Center.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "C Stands for Center",
+    "problem_url": "https://atcoder.jp/contests/abc458/tasks/abc458_c",
+    "submission_id": "AC75857475",
+    "submission_url": "https://atcoder.jp/contests/abc458/submissions/75857475",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/16/2026 17:47"
+  },
   "AC75862379": {
     "contest_id": "abc458",
     "language": "C++23 (GCC 15.2.0)",
