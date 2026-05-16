@@ -1,4 +1,20 @@
 {
+  "AC75849465": {
+    "contest_id": "abc458",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc458/abc458B Count_Adjacent_Cells.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Count Adjacent Cells",
+    "problem_url": "https://atcoder.jp/contests/abc458/tasks/abc458_b",
+    "submission_id": "AC75849465",
+    "submission_url": "https://atcoder.jp/contests/abc458/submissions/75849465",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/16/2026 17:41"
+  },
   "AC75857475": {
     "contest_id": "abc458",
     "language": "C++23 (GCC 15.2.0)",
