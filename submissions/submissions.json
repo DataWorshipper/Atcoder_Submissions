@@ -55122,5 +55122,22 @@
       "implementation"
     ],
     "timestamp": "May/16/2026 20:41"
+  },
+  "CF375084754": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2230,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Optimal Purchase",
+    "problem_url": "https://codeforces.com/contest/2230/problem/A",
+    "submission_id": "CF375084754",
+    "submission_url": "https://codeforces.com/contest/2230/submission/375084754",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "May/18/2026 20:44"
   }
 }
