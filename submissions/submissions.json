@@ -55139,5 +55139,47 @@
       "math"
     ],
     "timestamp": "May/18/2026 20:44"
+  },
+  "CF375269792": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1805,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A Wide, Wide Graph",
+    "problem_url": "https://codeforces.com/contest/1805/problem/D",
+    "submission_id": "CF375269792",
+    "submission_url": "https://codeforces.com/contest/1805/submission/375269792",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/20/2026 00:06"
+  },
+  "CF375269833": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1805,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A Wide, Wide Graph",
+    "problem_url": "https://codeforces.com/contest/1805/problem/D",
+    "submission_id": "CF375269833",
+    "submission_url": "https://codeforces.com/contest/1805/submission/375269833",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/20/2026 00:07"
   }
 }
