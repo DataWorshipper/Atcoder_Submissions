@@ -55181,5 +55181,53 @@
       "*1800"
     ],
     "timestamp": "May/20/2026 00:07"
+  },
+  "CF375472959": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2231,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Construct an Array",
+    "problem_url": "https://codeforces.com/contest/2231/problem/A",
+    "submission_id": "CF375472959",
+    "submission_url": "https://codeforces.com/contest/2231/submission/375472959",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "May/21/2026 20:36"
+  },
+  "CF375482959": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2231,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Another Sorting Problem",
+    "problem_url": "https://codeforces.com/contest/2231/problem/B",
+    "submission_id": "CF375482959",
+    "submission_url": "https://codeforces.com/contest/2231/submission/375482959",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "May/21/2026 20:45"
+  },
+  "CF375510114": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2231,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chipmunk Theo and Equality",
+    "problem_url": "https://codeforces.com/contest/2231/problem/C",
+    "submission_id": "CF375510114",
+    "submission_url": "https://codeforces.com/contest/2231/submission/375510114",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "May/21/2026 21:21"
   }
 }
