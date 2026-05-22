@@ -55229,5 +55229,93 @@
       "implementation"
     ],
     "timestamp": "May/21/2026 21:21"
+  },
+  "CF375638315": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2230,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Digit String",
+    "problem_url": "https://codeforces.com/contest/2230/problem/B",
+    "submission_id": "CF375638315",
+    "submission_url": "https://codeforces.com/contest/2230/submission/375638315",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "May/22/2026 17:43"
+  },
+  "CF375641510": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2230,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Arrange the Numbers in a Circle",
+    "problem_url": "https://codeforces.com/contest/2230/problem/C",
+    "submission_id": "CF375641510",
+    "submission_url": "https://codeforces.com/contest/2230/submission/375641510",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "May/22/2026 18:14"
+  },
+  "CF375641952": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2228,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Remilia Plays Soku",
+    "problem_url": "https://codeforces.com/contest/2228/problem/B",
+    "submission_id": "CF375641952",
+    "submission_url": "https://codeforces.com/contest/2228/submission/375641952",
+    "tags": [
+      "games",
+      "implementation"
+    ],
+    "timestamp": "May/22/2026 18:18"
+  },
+  "CF375679589": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 426,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Mugs",
+    "problem_url": "https://codeforces.com/contest/426/problem/A",
+    "submission_id": "CF375679589",
+    "submission_url": "https://codeforces.com/contest/426/submission/375679589",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/22/2026 23:58"
+  },
+  "CF375680801": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1197,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pillars",
+    "problem_url": "https://codeforces.com/contest/1197/problem/B",
+    "submission_id": "CF375680801",
+    "submission_url": "https://codeforces.com/contest/1197/submission/375680801",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/23/2026 00:09"
   }
 }
