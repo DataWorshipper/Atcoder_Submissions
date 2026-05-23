@@ -1,4 +1,20 @@
 {
+  "AC76059173": {
+    "contest_id": "abc459",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc459/abc459D Adjacent_Distinct_String.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Adjacent Distinct String",
+    "problem_url": "https://atcoder.jp/contests/abc459/tasks/abc459_d",
+    "submission_id": "AC76059173",
+    "submission_url": "https://atcoder.jp/contests/abc459/submissions/76059173",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/23/2026 18:08"
+  },
   "AC76073747": {
     "contest_id": "abc459",
     "language": "C++23 (GCC 15.2.0)",
