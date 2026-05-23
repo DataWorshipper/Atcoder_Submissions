@@ -55215,7 +55215,7 @@
     "timestamp": "May/21/2026 20:45"
   },
   "CF375510114": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2231,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55226,7 +55226,8 @@
     "submission_id": "CF375510114",
     "submission_url": "https://codeforces.com/contest/2231/submission/375510114",
     "tags": [
-      "implementation"
+      "implementation",
+      "sortings"
     ],
     "timestamp": "May/21/2026 21:21"
   },
@@ -55317,5 +55318,67 @@
       "*1000"
     ],
     "timestamp": "May/23/2026 00:09"
+  },
+  "CF375777114": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2229,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Slimes on a Line",
+    "problem_url": "https://codeforces.com/contest/2229/problem/A",
+    "submission_id": "CF375777114",
+    "submission_url": "https://codeforces.com/contest/2229/submission/375777114",
+    "tags": [],
+    "timestamp": "May/23/2026 20:39"
+  },
+  "CF375782656": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2229,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Absolute Cinema",
+    "problem_url": "https://codeforces.com/contest/2229/problem/B",
+    "submission_id": "CF375782656",
+    "submission_url": "https://codeforces.com/contest/2229/submission/375782656",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "May/23/2026 20:44"
+  },
+  "CF375792168": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2229,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "We Be Flipping (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2229/problem/C1",
+    "submission_id": "CF375792168",
+    "submission_url": "https://codeforces.com/contest/2229/submission/375792168",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "May/23/2026 20:53"
+  },
+  "CF375826196": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2229,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "We Be Flipping (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/2229/problem/C2",
+    "submission_id": "CF375826196",
+    "submission_url": "https://codeforces.com/contest/2229/submission/375826196",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "May/23/2026 22:01"
   }
 }
