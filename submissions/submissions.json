@@ -1,4 +1,20 @@
 {
+  "AC76073747": {
+    "contest_id": "abc459",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc459/abc459E Select_from_Subtrees.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Select from Subtrees",
+    "problem_url": "https://atcoder.jp/contests/abc459/tasks/abc459_e",
+    "submission_id": "AC76073747",
+    "submission_url": "https://atcoder.jp/contests/abc459/submissions/76073747",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "May/23/2026 18:36"
+  },
   "AC76106054": {
     "contest_id": "abc218",
     "language": "C++23 (GCC 15.2.0)",
