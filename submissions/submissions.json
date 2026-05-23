@@ -1,4 +1,20 @@
 {
+  "AC76028434": {
+    "contest_id": "abc459",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc459/abc459A Hell__World_.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Hell, World!",
+    "problem_url": "https://atcoder.jp/contests/abc459/tasks/abc459_a",
+    "submission_id": "AC76028434",
+    "submission_url": "https://atcoder.jp/contests/abc459/submissions/76028434",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/23/2026 17:32"
+  },
   "AC76034316": {
     "contest_id": "abc459",
     "language": "C++23 (GCC 15.2.0)",
