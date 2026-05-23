@@ -1,4 +1,20 @@
 {
+  "AC76034316": {
+    "contest_id": "abc459",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc459/abc459B 459.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "459",
+    "problem_url": "https://atcoder.jp/contests/abc459/tasks/abc459_b",
+    "submission_id": "AC76034316",
+    "submission_url": "https://atcoder.jp/contests/abc459/submissions/76034316",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/23/2026 17:36"
+  },
   "AC76059173": {
     "contest_id": "abc459",
     "language": "C++23 (GCC 15.2.0)",
