@@ -34,28 +34,28 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2229/problem/C2"><b>C2</b> - We Be Flipping (Hard Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375826196" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code></td>
 <td align="center"><sub>May/23/2026 22:01</sub></td>
 </tr>
 <tr>
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2229/problem/C1"><b>C1</b> - We Be Flipping (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375792168" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code></td>
 <td align="center"><sub>May/23/2026 20:53</sub></td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2229/problem/B"><b>B</b> - Absolute Cinema</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375782656" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code></td>
+<td><code>greedy</code> <code>math</code></td>
 <td align="center"><sub>May/23/2026 20:44</sub></td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2229/problem/A"><b>A</b> - Slimes on a Line</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375777114" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td>-</td>
+<td><code>brute force</code> <code>greedy</code> <code>math</code></td>
 <td align="center"><sub>May/23/2026 20:39</sub></td>
 </tr>
 <tr>
@@ -16531,6 +16531,6 @@
 
 <div align="center">
 
-*Last Updated: May 24, 2026 at 00:00 BDT (UTC+6)*
+*Last Updated: May 24, 2026 at 23:57 BDT (UTC+6)*
 
 </div>
