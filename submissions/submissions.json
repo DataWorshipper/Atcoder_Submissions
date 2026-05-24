@@ -1,4 +1,20 @@
 {
+  "AC76106054": {
+    "contest_id": "abc218",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc218/abc218E Destruction.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Destruction",
+    "problem_url": "https://atcoder.jp/contests/abc218/tasks/abc218_e",
+    "submission_id": "AC76106054",
+    "submission_url": "https://atcoder.jp/contests/abc218/submissions/76106054",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/24/2026 13:52"
+  },
   "AC76114764": {
     "contest_id": "abc235",
     "language": "C++23 (GCC 15.2.0)",
