@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2229/problem/C2"><b>C2</b> - We Be Flipping (Hard Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375826196" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code></td>
+<td><code>constructive algorithms</code> <code>dp</code> <code>greedy</code></td>
 <td align="center"><sub>May/23/2026 22:01</sub></td>
 </tr>
 <tr>
@@ -16531,6 +16531,6 @@
 
 <div align="center">
 
-*Last Updated: May 24, 2026 at 23:57 BDT (UTC+6)*
+*Last Updated: May 26, 2026 at 00:25 BDT (UTC+6)*
 
 </div>
