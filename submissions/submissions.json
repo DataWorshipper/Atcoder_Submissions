@@ -55388,5 +55388,47 @@
       "greedy"
     ],
     "timestamp": "May/23/2026 22:01"
+  },
+  "CF376084573": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1775,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Friendly Spiders",
+    "problem_url": "https://codeforces.com/contest/1775/problem/D",
+    "submission_id": "CF376084573",
+    "submission_url": "https://codeforces.com/contest/1775/submission/376084573",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "May/26/2026 01:41"
+  },
+  "CF376086017": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1775,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Friendly Spiders",
+    "problem_url": "https://codeforces.com/contest/1775/problem/D",
+    "submission_id": "CF376086017",
+    "submission_url": "https://codeforces.com/contest/1775/submission/376086017",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "May/26/2026 02:08"
   }
 }
