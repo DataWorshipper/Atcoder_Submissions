@@ -1,4 +1,20 @@
 {
+  "AC76190819": {
+    "contest_id": "abc362",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc362/abc362D Shortest_Path_3.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Shortest Path 3",
+    "problem_url": "https://atcoder.jp/contests/abc362/tasks/abc362_d",
+    "submission_id": "AC76190819",
+    "submission_url": "https://atcoder.jp/contests/abc362/submissions/76190819",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "May/28/2026 21:03"
+  },
   "AC76191914": {
     "contest_id": "abc160",
     "language": "C++23 (GCC 15.2.0)",
