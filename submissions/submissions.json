@@ -1,4 +1,20 @@
 {
+  "AC76292270": {
+    "contest_id": "abc460",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc460/abc460A Mod_While_Positive.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Mod While Positive",
+    "problem_url": "https://atcoder.jp/contests/abc460/tasks/abc460_a",
+    "submission_id": "AC76292270",
+    "submission_url": "https://atcoder.jp/contests/abc460/submissions/76292270",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/30/2026 22:17"
+  },
   "AC76292307": {
     "contest_id": "abc460",
     "language": "C++23 (GCC 15.2.0)",
