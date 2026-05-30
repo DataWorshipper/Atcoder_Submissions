@@ -1,4 +1,20 @@
 {
+  "AC76292307": {
+    "contest_id": "abc460",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc460/abc460B Two_Rings.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Two Rings",
+    "problem_url": "https://atcoder.jp/contests/abc460/tasks/abc460_b",
+    "submission_id": "AC76292307",
+    "submission_url": "https://atcoder.jp/contests/abc460/submissions/76292307",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "May/30/2026 22:20"
+  },
   "AC76292546": {
     "contest_id": "abc460",
     "language": "C++23 (GCC 15.2.0)",
