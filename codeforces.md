@@ -41,28 +41,28 @@
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2229/problem/C2"><b>C2</b> - We Be Flipping (Hard Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375826196" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>dp</code> <code>greedy</code></td>
+<td><code>constructive algorithms</code> <code>dp</code> <code>greedy</code> <code>*1400</code></td>
 <td align="center"><sub>May/23/2026 22:01</sub></td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2229/problem/C1"><b>C1</b> - We Be Flipping (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375792168" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>*900</code></td>
 <td align="center"><sub>May/23/2026 20:53</sub></td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2229/problem/B"><b>B</b> - Absolute Cinema</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375782656" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>math</code></td>
+<td><code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>May/23/2026 20:44</sub></td>
 </tr>
 <tr>
 <td align="center">5</td>
 <td><a href="https://codeforces.com/contest/2229/problem/A"><b>A</b> - Slimes on a Line</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2229/submission/375777114" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code> <code>greedy</code> <code>math</code></td>
+<td><code>brute force</code> <code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>May/23/2026 20:39</sub></td>
 </tr>
 <tr>
@@ -83,42 +83,42 @@
 <td align="center">8</td>
 <td><a href="https://codeforces.com/contest/2228/problem/B"><b>B</b> - Remilia Plays Soku</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2228/submission/375641952" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>games</code> <code>implementation</code></td>
+<td><code>games</code> <code>implementation</code> <code>*1100</code></td>
 <td align="center"><sub>May/22/2026 18:18</sub></td>
 </tr>
 <tr>
 <td align="center">9</td>
 <td><a href="https://codeforces.com/contest/2230/problem/C"><b>C</b> - Arrange the Numbers in a Circle</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2230/submission/375641510" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>implementation</code> <code>math</code></td>
+<td><code>constructive algorithms</code> <code>implementation</code> <code>math</code> <code>*1300</code></td>
 <td align="center"><sub>May/22/2026 18:14</sub></td>
 </tr>
 <tr>
 <td align="center">10</td>
 <td><a href="https://codeforces.com/contest/2230/problem/B"><b>B</b> - Digit String</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2230/submission/375638315" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>implementation</code> <code>math</code></td>
+<td><code>greedy</code> <code>implementation</code> <code>math</code> <code>*1000</code></td>
 <td align="center"><sub>May/22/2026 17:43</sub></td>
 </tr>
 <tr>
 <td align="center">11</td>
 <td><a href="https://codeforces.com/contest/2231/problem/C"><b>C</b> - Chipmunk Theo and Equality</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2231/submission/375510114" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>implementation</code> <code>sortings</code></td>
+<td><code>implementation</code> <code>sortings</code> <code>*1400</code></td>
 <td align="center"><sub>May/21/2026 21:21</sub></td>
 </tr>
 <tr>
 <td align="center">12</td>
 <td><a href="https://codeforces.com/contest/2231/problem/B"><b>B</b> - Another Sorting Problem</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2231/submission/375482959" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code></td>
+<td><code>constructive algorithms</code> <code>*1100</code></td>
 <td align="center"><sub>May/21/2026 20:45</sub></td>
 </tr>
 <tr>
 <td align="center">13</td>
 <td><a href="https://codeforces.com/contest/2231/problem/A"><b>A</b> - Construct an Array</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2231/submission/375472959" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code></td>
+<td><code>constructive algorithms</code> <code>*800</code></td>
 <td align="center"><sub>May/21/2026 20:36</sub></td>
 </tr>
 <tr>
@@ -132,14 +132,14 @@
 <td align="center">15</td>
 <td><a href="https://codeforces.com/contest/2230/problem/A"><b>A</b> - Optimal Purchase</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2230/submission/375084754" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>implementation</code> <code>math</code></td>
+<td><code>implementation</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>May/18/2026 20:44</sub></td>
 </tr>
 <tr>
 <td align="center">16</td>
 <td><a href="https://codeforces.com/contest/2228/problem/A"><b>A</b> - Marisa Steals Reimu's Takeout</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2228/submission/374746820" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>implementation</code></td>
+<td><code>greedy</code> <code>implementation</code> <code>*800</code></td>
 <td align="center"><sub>May/16/2026 20:41</sub></td>
 </tr>
 <tr>
@@ -153,21 +153,21 @@
 <td align="center">18</td>
 <td><a href="https://codeforces.com/contest/2224/problem/C"><b>C</b> - Zhily and Bracket Swapping</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2224/submission/374048902" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>*1300</code></td>
 <td align="center"><sub>May/10/2026 03:10</sub></td>
 </tr>
 <tr>
 <td align="center">19</td>
 <td><a href="https://codeforces.com/contest/2224/problem/B"><b>B</b> - Zhily and Mex and Max</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2224/submission/374048114" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>sortings</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>sortings</code> <code>*1200</code></td>
 <td align="center"><sub>May/10/2026 02:51</sub></td>
 </tr>
 <tr>
 <td align="center">20</td>
 <td><a href="https://codeforces.com/contest/2224/problem/A"><b>A</b> - Zhily and Array Operating</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2224/submission/374046283" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>*800</code></td>
 <td align="center"><sub>May/10/2026 02:14</sub></td>
 </tr>
 <tr>
@@ -384,49 +384,49 @@
 <td align="center">51</td>
 <td><a href="https://codeforces.com/contest/2227/problem/D"><b>D</b> - Palindromex</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2227/submission/373117618" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>constructive algorithms</code> <code>data structures</code> <code>greedy</code> <code>implementation</code> <code>two pointers</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>constructive algorithms</code> <code>data structures</code> <code>greedy</code> <code>implementation</code> <code>two pointers</code> <code>*1200</code></td>
 <td align="center"><sub>Apr/30/2026 21:18</sub></td>
 </tr>
 <tr>
 <td align="center">52</td>
 <td><a href="https://codeforces.com/contest/2227/problem/C"><b>C</b> - Snowfall</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2227/submission/373100848" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code> <code>math</code></td>
+<td><code>constructive algorithms</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Apr/30/2026 20:57</sub></td>
 </tr>
 <tr>
 <td align="center">53</td>
 <td><a href="https://codeforces.com/contest/2227/problem/B"><b>B</b> - Party Monster</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2227/submission/373078322" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code></td>
+<td><code>greedy</code> <code>*800</code></td>
 <td align="center"><sub>Apr/30/2026 20:39</sub></td>
 </tr>
 <tr>
 <td align="center">54</td>
 <td><a href="https://codeforces.com/contest/2227/problem/A"><b>A</b> - Koshary</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2227/submission/373071973" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>implementation</code> <code>math</code></td>
+<td><code>implementation</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Apr/30/2026 20:36</sub></td>
 </tr>
 <tr>
 <td align="center">55</td>
 <td><a href="https://codeforces.com/contest/2226/problem/C"><b>C</b> - Mental Monumental (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2226/submission/372875588" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>data structures</code> <code>greedy</code> <code>math</code> <code>two pointers</code></td>
+<td><code>binary search</code> <code>data structures</code> <code>greedy</code> <code>math</code> <code>two pointers</code> <code>*1500</code></td>
 <td align="center"><sub>Apr/28/2026 23:29</sub></td>
 </tr>
 <tr>
 <td align="center">56</td>
 <td><a href="https://codeforces.com/contest/2226/problem/B"><b>B</b> - Everything Everywhere</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2226/submission/372865719" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>math</code> <code>number theory</code></td>
+<td><code>greedy</code> <code>math</code> <code>number theory</code> <code>*900</code></td>
 <td align="center"><sub>Apr/28/2026 22:24</sub></td>
 </tr>
 <tr>
 <td align="center">57</td>
 <td><a href="https://codeforces.com/contest/2226/problem/A"><b>A</b> - Disturbing Distribution</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2226/submission/372837654" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>math</code></td>
+<td><code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Apr/28/2026 21:06</sub></td>
 </tr>
 <tr>
@@ -454,21 +454,21 @@
 <td align="center">61</td>
 <td><a href="https://codeforces.com/contest/2222/problem/C"><b>C</b> - Median Partition</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2222/submission/372519658" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code> <code>math</code></td>
+<td><code>dp</code> <code>math</code> <code>*1500</code></td>
 <td align="center"><sub>Apr/25/2026 22:36</sub></td>
 </tr>
 <tr>
 <td align="center">62</td>
 <td><a href="https://codeforces.com/contest/2222/problem/B"><b>B</b> - Artistic Balance Tree</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2222/submission/372502690" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>sortings</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>*1100</code></td>
 <td align="center"><sub>Apr/25/2026 21:39</sub></td>
 </tr>
 <tr>
 <td align="center">63</td>
 <td><a href="https://codeforces.com/contest/2222/problem/A"><b>A</b> - A Wonderful Contest</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2222/submission/372477050" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code> <code>dp</code> <code>math</code></td>
+<td><code>brute force</code> <code>dp</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Apr/25/2026 20:41</sub></td>
 </tr>
 <tr>
@@ -489,21 +489,21 @@
 <td align="center">66</td>
 <td><a href="https://codeforces.com/contest/2225/problem/C"><b>C</b> - Red-Black Pairs</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2225/submission/372026336" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code> <code>greedy</code></td>
+<td><code>dp</code> <code>greedy</code> <code>*1100</code></td>
 <td align="center"><sub>Apr/21/2026 21:30</sub></td>
 </tr>
 <tr>
 <td align="center">67</td>
 <td><a href="https://codeforces.com/contest/2225/problem/B"><b>B</b> - Alternating String</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2225/submission/372014259" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code> <code>greedy</code></td>
+<td><code>brute force</code> <code>greedy</code> <code>*900</code></td>
 <td align="center"><sub>Apr/21/2026 21:09</sub></td>
 </tr>
 <tr>
 <td align="center">68</td>
 <td><a href="https://codeforces.com/contest/2225/problem/A"><b>A</b> - A Number Between Two Others</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2225/submission/371988810" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>math</code></td>
+<td><code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Apr/21/2026 20:39</sub></td>
 </tr>
 <tr>
@@ -566,14 +566,14 @@
 <td align="center">77</td>
 <td><a href="https://codeforces.com/contest/2220/problem/B"><b>B</b> - OIE Excursion</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2220/submission/371010093" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code></td>
+<td><code>greedy</code> <code>*1200</code></td>
 <td align="center"><sub>Apr/13/2026 21:50</sub></td>
 </tr>
 <tr>
 <td align="center">78</td>
 <td><a href="https://codeforces.com/contest/2220/problem/A"><b>A</b> - Blocked</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2220/submission/370970261" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>sortings</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>*800</code></td>
 <td align="center"><sub>Apr/13/2026 20:47</sub></td>
 </tr>
 <tr>
@@ -16538,6 +16538,6 @@
 
 <div align="center">
 
-*Last Updated: May 27, 2026 at 01:21 BDT (UTC+6)*
+*Last Updated: May 31, 2026 at 00:02 BDT (UTC+6)*
 
 </div>
