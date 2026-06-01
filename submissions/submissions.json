@@ -55460,5 +55460,22 @@
       "*1800"
     ],
     "timestamp": "May/26/2026 02:08"
+  },
+  "CF376819002": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2232,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Convergence",
+    "problem_url": "https://codeforces.com/contest/2232/problem/A",
+    "submission_id": "CF376819002",
+    "submission_url": "https://codeforces.com/contest/2232/submission/376819002",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Jun/01/2026 01:13"
   }
 }
