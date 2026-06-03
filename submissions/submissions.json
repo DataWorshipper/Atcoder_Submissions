@@ -1,4 +1,20 @@
 {
+  "AC76363832": {
+    "contest_id": "arc135",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/arc135/arc135C XOR_to_All.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "XOR to All",
+    "problem_url": "https://atcoder.jp/contests/arc135/tasks/arc135_c",
+    "submission_id": "AC76363832",
+    "submission_url": "https://atcoder.jp/contests/arc135/submissions/76363832",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/03/2026 12:36"
+  },
   "AC76365771": {
     "contest_id": "abc390",
     "language": "C++23 (GCC 15.2.0)",
