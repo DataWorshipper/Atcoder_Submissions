@@ -55462,7 +55462,7 @@
     "timestamp": "May/26/2026 02:08"
   },
   "CF376819002": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2232,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55474,8 +55474,121 @@
     "submission_url": "https://codeforces.com/contest/2232/submission/376819002",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*800"
     ],
     "timestamp": "Jun/01/2026 01:13"
+  },
+  "CF377212209": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2232,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Seating Arrangement (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2232/problem/C1",
+    "submission_id": "CF377212209",
+    "submission_url": "https://codeforces.com/contest/2232/submission/377212209",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jun/04/2026 02:30"
+  },
+  "CF377212216": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2232,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Seating Arrangement (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/2232/problem/C2",
+    "submission_id": "CF377212216",
+    "submission_url": "https://codeforces.com/contest/2232/submission/377212216",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jun/04/2026 02:30"
+  },
+  "CF377247783": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2232,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cake Leveling",
+    "problem_url": "https://codeforces.com/contest/2232/problem/B",
+    "submission_id": "CF377247783",
+    "submission_url": "https://codeforces.com/contest/2232/submission/377247783",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/04/2026 12:55"
+  },
+  "CF377312702": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 368,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Coat Rack",
+    "problem_url": "https://codeforces.com/contest/368/problem/A",
+    "submission_id": "CF377312702",
+    "submission_url": "https://codeforces.com/contest/368/submission/377312702",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/04/2026 23:17"
+  },
+  "CF377313795": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 609,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "USB Flash Drives",
+    "problem_url": "https://codeforces.com/contest/609/problem/A",
+    "submission_id": "CF377313795",
+    "submission_url": "https://codeforces.com/contest/609/submission/377313795",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2026 23:27"
+  },
+  "CF377317170": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1260,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heating",
+    "problem_url": "https://codeforces.com/contest/1260/problem/A",
+    "submission_id": "CF377317170",
+    "submission_url": "https://codeforces.com/contest/1260/submission/377317170",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/05/2026 00:00"
   }
 }
