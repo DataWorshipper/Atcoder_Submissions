@@ -60,16 +60,16 @@
 </tr>
 <tr>
 <td align="center">5</td>
-<td><a href="https://codeforces.com/contest/2232/problem/C2"><b>C2</b> - Seating Arrangement (Hard Version)</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2232/submission/377212216" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>greedy</code> <code>math</code> <code>two pointers</code> <code>*1500</code></td>
+<td><a href="https://codeforces.com/contest/2232/problem/C1"><b>C1</b> - Seating Arrangement (Easy Version)</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2232/submission/377212209" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
+<td><code>binary search</code> <code>dp</code> <code>greedy</code> <code>two pointers</code> <code>*1300</code></td>
 <td align="center"><sub>Jun/04/2026 02:30</sub></td>
 </tr>
 <tr>
 <td align="center">6</td>
-<td><a href="https://codeforces.com/contest/2232/problem/C1"><b>C1</b> - Seating Arrangement (Easy Version)</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2232/submission/377212209" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>dp</code> <code>greedy</code> <code>two pointers</code> <code>*1300</code></td>
+<td><a href="https://codeforces.com/contest/2232/problem/C2"><b>C2</b> - Seating Arrangement (Hard Version)</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2232/submission/377212216" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
+<td><code>binary search</code> <code>greedy</code> <code>math</code> <code>two pointers</code> <code>*1500</code></td>
 <td align="center"><sub>Jun/04/2026 02:30</sub></td>
 </tr>
 <tr>
@@ -16587,6 +16587,6 @@
 
 <div align="center">
 
-*Last Updated: June 05, 2026 at 01:22 BDT (UTC+6)*
+*Last Updated: June 06, 2026 at 00:56 BDT (UTC+6)*
 
 </div>
