@@ -3327,6 +3327,22 @@
     ],
     "timestamp": "Feb/14/2026 18:30"
   },
+  "AC76406951": {
+    "contest_id": "agc021",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/agc021/agc021A Digit_Sum_2.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Digit Sum 2",
+    "problem_url": "https://atcoder.jp/contests/agc021/tasks/agc021_a",
+    "submission_id": "AC76406951",
+    "submission_url": "https://atcoder.jp/contests/agc021/submissions/76406951",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/05/2026 17:40"
+  },
   "CF167035148": {
     "__info_message": "Info: storing URL",
     "contest_id": 4,
