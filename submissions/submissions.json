@@ -3327,6 +3327,22 @@
     ],
     "timestamp": "Feb/14/2026 18:30"
   },
+  "AC76406530": {
+    "contest_id": "agc026",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/agc026/agc026A Colorful_Slimes_2.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Colorful Slimes 2",
+    "problem_url": "https://atcoder.jp/contests/agc026/tasks/agc026_a",
+    "submission_id": "AC76406530",
+    "submission_url": "https://atcoder.jp/contests/agc026/submissions/76406530",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/05/2026 17:21"
+  },
   "AC76406635": {
     "contest_id": "agc023",
     "language": "C++23 (GCC 15.2.0)",
