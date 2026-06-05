@@ -3327,6 +3327,22 @@
     ],
     "timestamp": "Feb/14/2026 18:30"
   },
+  "AC76405600": {
+    "contest_id": "agc037",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/agc037/agc037A Dividing_a_String.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Dividing a String",
+    "problem_url": "https://atcoder.jp/contests/agc037/tasks/agc037_a",
+    "submission_id": "AC76405600",
+    "submission_url": "https://atcoder.jp/contests/agc037/submissions/76405600",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/05/2026 16:33"
+  },
   "AC76406434": {
     "contest_id": "agc031",
     "language": "C++23 (GCC 15.2.0)",
