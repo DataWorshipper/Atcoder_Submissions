@@ -3327,6 +3327,22 @@
     ],
     "timestamp": "Feb/14/2026 18:30"
   },
+  "AC76406635": {
+    "contest_id": "agc023",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/agc023/agc023A Zero-Sum_Ranges.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Zero-Sum Ranges",
+    "problem_url": "https://atcoder.jp/contests/agc023/tasks/agc023_a",
+    "submission_id": "AC76406635",
+    "submission_url": "https://atcoder.jp/contests/agc023/submissions/76406635",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/05/2026 17:25"
+  },
   "AC76406951": {
     "contest_id": "agc021",
     "language": "C++23 (GCC 15.2.0)",
