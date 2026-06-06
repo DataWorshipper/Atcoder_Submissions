@@ -1,4 +1,20 @@
 {
+  "AC76493298": {
+    "contest_id": "abc441",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc441/abc441F Must_Buy.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Must Buy",
+    "problem_url": "https://atcoder.jp/contests/abc441/tasks/abc441_f",
+    "submission_id": "AC76493298",
+    "submission_url": "https://atcoder.jp/contests/abc441/submissions/76493298",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/07/2026 00:55"
+  },
   "AC76499180": {
     "contest_id": "abc262",
     "language": "C++23 (GCC 15.2.0)",
