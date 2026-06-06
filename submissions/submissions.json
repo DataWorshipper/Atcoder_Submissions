@@ -3407,6 +3407,22 @@
     ],
     "timestamp": "Jun/05/2026 17:40"
   },
+  "AC76491276": {
+    "contest_id": "agc013",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/agc013/agc013A Sorted_Arrays.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sorted Arrays",
+    "problem_url": "https://atcoder.jp/contests/agc013/tasks/agc013_a",
+    "submission_id": "AC76491276",
+    "submission_url": "https://atcoder.jp/contests/agc013/submissions/76491276",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/06/2026 22:17"
+  },
   "AC76491375": {
     "contest_id": "agc009",
     "language": "C++23 (GCC 15.2.0)",
