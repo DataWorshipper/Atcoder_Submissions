@@ -3407,6 +3407,22 @@
     ],
     "timestamp": "Jun/05/2026 17:40"
   },
+  "AC76491375": {
+    "contest_id": "agc009",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/agc009/agc009A Multiple_Array.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Multiple Array",
+    "problem_url": "https://atcoder.jp/contests/agc009/tasks/agc009_a",
+    "submission_id": "AC76491375",
+    "submission_url": "https://atcoder.jp/contests/agc009/submissions/76491375",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/06/2026 22:23"
+  },
   "AC76492300": {
     "contest_id": "arc129",
     "language": "C++23 (GCC 15.2.0)",
