@@ -1,4 +1,20 @@
 {
+  "AC76476304": {
+    "contest_id": "abc461",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc461/abc461D Count_Subgrid_Sum___K.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Count Subgrid Sum = K",
+    "problem_url": "https://atcoder.jp/contests/abc461/tasks/abc461_d",
+    "submission_id": "AC76476304",
+    "submission_url": "https://atcoder.jp/contests/abc461/submissions/76476304",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Jun/06/2026 18:50"
+  },
   "AC76492476": {
     "contest_id": "abc184",
     "language": "C++23 (GCC 15.2.0)",
