@@ -1,4 +1,20 @@
 {
+  "AC76431146": {
+    "contest_id": "abc461",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc461/abc461A Armor.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Armor",
+    "problem_url": "https://atcoder.jp/contests/abc461/tasks/abc461_a",
+    "submission_id": "AC76431146",
+    "submission_url": "https://atcoder.jp/contests/abc461/submissions/76431146",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/06/2026 17:32"
+  },
   "AC76442897": {
     "contest_id": "abc461",
     "language": "C++23 (GCC 15.2.0)",
