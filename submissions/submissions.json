@@ -1,4 +1,20 @@
 {
+  "AC76442897": {
+    "contest_id": "abc461",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc461/abc461B The_Honest_Woodcutters.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "The Honest Woodcutters",
+    "problem_url": "https://atcoder.jp/contests/abc461/tasks/abc461_b",
+    "submission_id": "AC76442897",
+    "submission_url": "https://atcoder.jp/contests/abc461/submissions/76442897",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/06/2026 17:40"
+  },
   "AC76458372": {
     "contest_id": "abc461",
     "language": "C++23 (GCC 15.2.0)",
