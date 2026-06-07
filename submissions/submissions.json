@@ -1,4 +1,20 @@
 {
+  "AC76499654": {
+    "contest_id": "abc200",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc200/abc200D Happy_Birthday__2.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Happy Birthday! 2",
+    "problem_url": "https://atcoder.jp/contests/abc200/tasks/abc200_d",
+    "submission_id": "AC76499654",
+    "submission_url": "https://atcoder.jp/contests/abc200/submissions/76499654",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/07/2026 10:30"
+  },
   "AC76501843": {
     "contest_id": "abc362",
     "language": "C++23 (GCC 15.2.0)",
