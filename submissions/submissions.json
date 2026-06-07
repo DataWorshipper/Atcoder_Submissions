@@ -1,4 +1,20 @@
 {
+  "AC76501843": {
+    "contest_id": "abc362",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc362/abc362E Count_Arithmetic_Subsequences.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Count Arithmetic Subsequences",
+    "problem_url": "https://atcoder.jp/contests/abc362/tasks/abc362_e",
+    "submission_id": "AC76501843",
+    "submission_url": "https://atcoder.jp/contests/abc362/submissions/76501843",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jun/07/2026 12:14"
+  },
   "AC76525355": {
     "contest_id": "abc457",
     "language": "C++23 (GCC 15.2.0)",
