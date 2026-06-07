@@ -1,4 +1,20 @@
 {
+  "AC76499180": {
+    "contest_id": "abc262",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc262/abc262D I_Hate_Non-integer_Number.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "I Hate Non-integer Number",
+    "problem_url": "https://atcoder.jp/contests/abc262/tasks/abc262_d",
+    "submission_id": "AC76499180",
+    "submission_url": "https://atcoder.jp/contests/abc262/submissions/76499180",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/07/2026 10:02"
+  },
   "AC76499654": {
     "contest_id": "abc200",
     "language": "C++23 (GCC 15.2.0)",
