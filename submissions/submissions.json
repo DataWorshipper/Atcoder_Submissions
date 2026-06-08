@@ -55720,7 +55720,7 @@
     "timestamp": "Jun/05/2026 00:00"
   },
   "CF377616566": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2234,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55732,12 +55732,13 @@
     "submission_url": "https://codeforces.com/contest/2234/submission/377616566",
     "tags": [
       "math",
-      "number theory"
+      "number theory",
+      "sortings"
     ],
     "timestamp": "Jun/07/2026 20:41"
   },
   "CF377645646": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2234,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55748,12 +55749,13 @@
     "submission_id": "CF377645646",
     "submission_url": "https://codeforces.com/contest/2234/submission/377645646",
     "tags": [
+      "constructive algorithms",
       "math"
     ],
     "timestamp": "Jun/07/2026 21:12"
   },
   "CF377682327": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2234,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55764,8 +55766,11 @@
     "submission_id": "CF377682327",
     "submission_url": "https://codeforces.com/contest/2234/submission/377682327",
     "tags": [
+      "dfs and similar",
+      "dsu",
       "greedy",
-      "implementation"
+      "implementation",
+      "two pointers"
     ],
     "timestamp": "Jun/07/2026 22:39"
   }

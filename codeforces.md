@@ -34,21 +34,21 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2234/problem/C"><b>C</b> - Vessels, Heights and Two Versions (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2234/submission/377682327" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code> <code>implementation</code></td>
+<td><code>dfs and similar</code> <code>dsu</code> <code>greedy</code> <code>implementation</code> <code>two pointers</code></td>
 <td align="center"><sub>Jun/07/2026 22:39</sub></td>
 </tr>
 <tr>
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2234/problem/B"><b>B</b> - Palindrome, Twelve and Two Terms</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2234/submission/377645646" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code></td>
+<td><code>constructive algorithms</code> <code>math</code></td>
 <td align="center"><sub>Jun/07/2026 21:12</sub></td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2234/problem/A"><b>A</b> - Euclid, Sequence and Two Numbers</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2234/submission/377616566" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code> <code>number theory</code></td>
+<td><code>math</code> <code>number theory</code> <code>sortings</code></td>
 <td align="center"><sub>Jun/07/2026 20:41</sub></td>
 </tr>
 <tr>
@@ -16608,6 +16608,6 @@
 
 <div align="center">
 
-*Last Updated: June 08, 2026 at 00:03 BDT (UTC+6)*
+*Last Updated: June 09, 2026 at 01:21 BDT (UTC+6)*
 
 </div>
