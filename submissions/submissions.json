@@ -1,4 +1,20 @@
 {
+  "AC76525793": {
+    "contest_id": "abc456",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc456/abc456D Not_Adjacent_2.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Not Adjacent 2",
+    "problem_url": "https://atcoder.jp/contests/abc456/tasks/abc456_d",
+    "submission_id": "AC76525793",
+    "submission_url": "https://atcoder.jp/contests/abc456/submissions/76525793",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/08/2026 15:06"
+  },
   "AC76540240": {
     "contest_id": "arc149",
     "language": "C++23 (GCC 15.2.0)",
