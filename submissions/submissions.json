@@ -1,4 +1,20 @@
 {
+  "AC76525355": {
+    "contest_id": "abc457",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc457/abc457D Raise_Minimum.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Raise Minimum",
+    "problem_url": "https://atcoder.jp/contests/abc457/tasks/abc457_d",
+    "submission_id": "AC76525355",
+    "submission_url": "https://atcoder.jp/contests/abc457/submissions/76525355",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/08/2026 14:49"
+  },
   "AC76525793": {
     "contest_id": "abc456",
     "language": "C++23 (GCC 15.2.0)",
