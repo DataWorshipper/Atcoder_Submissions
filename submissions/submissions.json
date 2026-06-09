@@ -1,4 +1,20 @@
 {
+  "AC76540240": {
+    "contest_id": "arc149",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/arc149/arc149B Two_LIS_Sum.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Two LIS Sum",
+    "problem_url": "https://atcoder.jp/contests/arc149/tasks/arc149_b",
+    "submission_id": "AC76540240",
+    "submission_url": "https://atcoder.jp/contests/arc149/submissions/76540240",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/09/2026 10:23"
+  },
   "AC76559431": {
     "contest_id": "arc154",
     "language": "C++23 (GCC 15.2.0)",
