@@ -1,4 +1,20 @@
 {
+  "AC76562296": {
+    "contest_id": "arc144",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/arc144/arc144B Gift_Tax.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Gift Tax",
+    "problem_url": "https://atcoder.jp/contests/arc144/tasks/arc144_b",
+    "submission_id": "AC76562296",
+    "submission_url": "https://atcoder.jp/contests/arc144/submissions/76562296",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/10/2026 14:24"
+  },
   "AC76603088": {
     "contest_id": "abc428",
     "language": "C++23 (GCC 15.2.0)",
