@@ -55733,7 +55733,8 @@
     "tags": [
       "math",
       "number theory",
-      "sortings"
+      "sortings",
+      "*800"
     ],
     "timestamp": "Jun/07/2026 20:41"
   },
@@ -55749,8 +55750,10 @@
     "submission_id": "CF377645646",
     "submission_url": "https://codeforces.com/contest/2234/submission/377645646",
     "tags": [
+      "brute force",
       "constructive algorithms",
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Jun/07/2026 21:12"
   },
@@ -55770,8 +55773,63 @@
       "dsu",
       "greedy",
       "implementation",
-      "two pointers"
+      "two pointers",
+      "*1200"
     ],
     "timestamp": "Jun/07/2026 22:39"
+  },
+  "CF377925717": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2233,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "AI Project Development",
+    "problem_url": "https://codeforces.com/contest/2233/problem/A",
+    "submission_id": "CF377925717",
+    "submission_url": "https://codeforces.com/contest/2233/submission/377925717",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "timestamp": "Jun/09/2026 20:44"
+  },
+  "CF377955033": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2233,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different Distances",
+    "problem_url": "https://codeforces.com/contest/2233/problem/B",
+    "submission_id": "CF377955033",
+    "submission_url": "https://codeforces.com/contest/2233/submission/377955033",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Jun/09/2026 21:19"
+  },
+  "CF378114708": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1768,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Permutation",
+    "problem_url": "https://codeforces.com/contest/1768/problem/D",
+    "submission_id": "CF378114708",
+    "submission_url": "https://codeforces.com/contest/1768/submission/378114708",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Jun/10/2026 23:35"
   }
 }
