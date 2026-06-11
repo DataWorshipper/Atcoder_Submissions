@@ -55779,7 +55779,7 @@
     "timestamp": "Jun/07/2026 22:39"
   },
   "CF377925717": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2233,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55790,6 +55790,7 @@
     "submission_id": "CF377925717",
     "submission_url": "https://codeforces.com/contest/2233/submission/377925717",
     "tags": [
+      "binary search",
       "brute force",
       "math"
     ],
@@ -55831,5 +55832,24 @@
       "*1800"
     ],
     "timestamp": "Jun/10/2026 23:35"
+  },
+  "CF378232964": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1725,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Moving Both Hands",
+    "problem_url": "https://codeforces.com/contest/1725/problem/M",
+    "submission_id": "CF378232964",
+    "submission_url": "https://codeforces.com/contest/1725/submission/378232964",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "Jun/11/2026 23:58"
   }
 }
