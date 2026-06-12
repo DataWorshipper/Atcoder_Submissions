@@ -1,4 +1,20 @@
 {
+  "AC76603088": {
+    "contest_id": "abc428",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc428/abc428E Farthest_Vertex.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Farthest Vertex",
+    "problem_url": "https://atcoder.jp/contests/abc428/tasks/abc428_e",
+    "submission_id": "AC76603088",
+    "submission_url": "https://atcoder.jp/contests/abc428/submissions/76603088",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jun/13/2026 01:18"
+  },
   "AC76606790": {
     "contest_id": "abc348",
     "language": "C++23 (GCC 15.2.0)",
