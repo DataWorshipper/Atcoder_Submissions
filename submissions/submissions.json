@@ -55790,14 +55790,13 @@
     "submission_id": "CF377925717",
     "submission_url": "https://codeforces.com/contest/2233/submission/377925717",
     "tags": [
-      "binary search",
       "brute force",
       "math"
     ],
     "timestamp": "Jun/09/2026 20:44"
   },
   "CF377955033": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2233,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -55808,8 +55807,7 @@
     "submission_id": "CF377955033",
     "submission_url": "https://codeforces.com/contest/2233/submission/377955033",
     "tags": [
-      "constructive algorithms",
-      "greedy"
+      "constructive algorithms"
     ],
     "timestamp": "Jun/09/2026 21:19"
   },
@@ -55851,5 +55849,111 @@
       "*1800"
     ],
     "timestamp": "Jun/11/2026 23:58"
+  },
+  "CF378305101": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2233,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cost of a Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/2233/problem/C",
+    "submission_id": "CF378305101",
+    "submission_url": "https://codeforces.com/contest/2233/submission/378305101",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Jun/12/2026 18:48"
+  },
+  "CF378316630": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2236,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Games on the Train",
+    "problem_url": "https://codeforces.com/contest/2236/problem/A",
+    "submission_id": "CF378316630",
+    "submission_url": "https://codeforces.com/contest/2236/submission/378316630",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jun/12/2026 20:36"
+  },
+  "CF378329248": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2236,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tatar TV Show",
+    "problem_url": "https://codeforces.com/contest/2236/problem/B",
+    "submission_id": "CF378329248",
+    "submission_url": "https://codeforces.com/contest/2236/submission/378329248",
+    "tags": [
+      "math",
+      "strings"
+    ],
+    "timestamp": "Jun/12/2026 20:42"
+  },
+  "CF378354353": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2236,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Omsk Programmers",
+    "problem_url": "https://codeforces.com/contest/2236/problem/C",
+    "submission_id": "CF378354353",
+    "submission_url": "https://codeforces.com/contest/2236/submission/378354353",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jun/12/2026 21:00"
+  },
+  "CF378385306": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2236,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Brand New Tatar TV Show",
+    "problem_url": "https://codeforces.com/contest/2236/problem/D",
+    "submission_id": "CF378385306",
+    "submission_url": "https://codeforces.com/contest/2236/submission/378385306",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dp",
+      "games",
+      "math"
+    ],
+    "timestamp": "Jun/12/2026 21:35"
+  },
+  "CF378435194": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2236,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Friendly Gifts",
+    "problem_url": "https://codeforces.com/contest/2236/problem/E",
+    "submission_id": "CF378435194",
+    "submission_url": "https://codeforces.com/contest/2236/submission/378435194",
+    "tags": [
+      "dp"
+    ],
+    "timestamp": "Jun/12/2026 23:03"
   }
 }
