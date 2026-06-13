@@ -1,4 +1,20 @@
 {
+  "AC76642849": {
+    "contest_id": "abc462",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc462/abc462C Not_Covered_Points.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Not Covered Points",
+    "problem_url": "https://atcoder.jp/contests/abc462/tasks/abc462_c",
+    "submission_id": "AC76642849",
+    "submission_url": "https://atcoder.jp/contests/abc462/submissions/76642849",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/13/2026 18:04"
+  },
   "AC76658576": {
     "contest_id": "abc462",
     "language": "C++23 (GCC 15.2.0)",
