@@ -1,4 +1,20 @@
 {
+  "AC76658576": {
+    "contest_id": "abc462",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc462/abc462D Accomplice.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Accomplice",
+    "problem_url": "https://atcoder.jp/contests/abc462/tasks/abc462_d",
+    "submission_id": "AC76658576",
+    "submission_url": "https://atcoder.jp/contests/abc462/submissions/76658576",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/13/2026 18:47"
+  },
   "AC76681971": {
     "contest_id": "abc185",
     "language": "C++23 (GCC 15.2.0)",
