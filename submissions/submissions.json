@@ -1,4 +1,20 @@
 {
+  "AC76614995": {
+    "contest_id": "abc462",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc462/abc462A Secret_Numbers.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Secret Numbers",
+    "problem_url": "https://atcoder.jp/contests/abc462/tasks/abc462_a",
+    "submission_id": "AC76614995",
+    "submission_url": "https://atcoder.jp/contests/abc462/submissions/76614995",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/13/2026 17:31"
+  },
   "AC76624244": {
     "contest_id": "abc462",
     "language": "C++23 (GCC 15.2.0)",
