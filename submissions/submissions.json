@@ -1,4 +1,20 @@
 {
+  "AC76608690": {
+    "contest_id": "abc222",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc222/abc222F Expensive_Expense.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Expensive Expense",
+    "problem_url": "https://atcoder.jp/contests/abc222/tasks/abc222_f",
+    "submission_id": "AC76608690",
+    "submission_url": "https://atcoder.jp/contests/abc222/submissions/76608690",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/13/2026 12:26"
+  },
   "AC76614995": {
     "contest_id": "abc462",
     "language": "C++23 (GCC 15.2.0)",
