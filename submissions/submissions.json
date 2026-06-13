@@ -1,4 +1,20 @@
 {
+  "AC76606790": {
+    "contest_id": "abc348",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc348/abc348E Minimize_Sum_of_Distances.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Minimize Sum of Distances",
+    "problem_url": "https://atcoder.jp/contests/abc348/tasks/abc348_e",
+    "submission_id": "AC76606790",
+    "submission_url": "https://atcoder.jp/contests/abc348/submissions/76606790",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jun/13/2026 10:10"
+  },
   "AC76608690": {
     "contest_id": "abc222",
     "language": "C++23 (GCC 15.2.0)",
