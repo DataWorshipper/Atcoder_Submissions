@@ -69,7 +69,7 @@
 <td align="center">6</td>
 <td><a href="https://codeforces.com/contest/2233/problem/C"><b>C</b> - Cost of a Bracket Sequence</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2233/submission/378305101" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code> <code>dp</code> <code>greedy</code></td>
+<td><code>brute force</code> <code>dp</code> <code>greedy</code> <code>*1400</code></td>
 <td align="center"><sub>Jun/12/2026 18:48</sub></td>
 </tr>
 <tr>
@@ -90,14 +90,14 @@
 <td align="center">9</td>
 <td><a href="https://codeforces.com/contest/2233/problem/B"><b>B</b> - Different Distances</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2233/submission/377955033" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>constructive algorithms</code></td>
+<td><code>constructive algorithms</code> <code>*900</code></td>
 <td align="center"><sub>Jun/09/2026 21:19</sub></td>
 </tr>
 <tr>
 <td align="center">10</td>
 <td><a href="https://codeforces.com/contest/2233/problem/A"><b>A</b> - AI Project Development</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2233/submission/377925717" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>brute force</code> <code>math</code></td>
+<td><code>brute force</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Jun/09/2026 20:44</sub></td>
 </tr>
 <tr>
@@ -16678,6 +16678,6 @@
 
 <div align="center">
 
-*Last Updated: June 13, 2026 at 01:03 BDT (UTC+6)*
+*Last Updated: June 14, 2026 at 00:06 BDT (UTC+6)*
 
 </div>
