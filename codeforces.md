@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2236/problem/E"><b>E</b> - Friendly Gifts</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2236/submission/378435194" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code></td>
+<td><code>brute force</code> <code>dp</code></td>
 <td align="center"><sub>Jun/12/2026 23:03</sub></td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@
 <td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2236/problem/B"><b>B</b> - Tatar TV Show</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2236/submission/378329248" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code> <code>strings</code></td>
+<td><code>greedy</code> <code>math</code> <code>strings</code></td>
 <td align="center"><sub>Jun/12/2026 20:42</sub></td>
 </tr>
 <tr>
@@ -16678,6 +16678,6 @@
 
 <div align="center">
 
-*Last Updated: June 14, 2026 at 00:06 BDT (UTC+6)*
+*Last Updated: June 15, 2026 at 00:11 BDT (UTC+6)*
 
 </div>
