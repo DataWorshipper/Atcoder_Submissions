@@ -55960,5 +55960,24 @@
       "dp"
     ],
     "timestamp": "Jun/12/2026 23:03"
+  },
+  "CF378903745": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 999,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Reachability from the Capital",
+    "problem_url": "https://codeforces.com/contest/999/problem/E",
+    "submission_id": "CF378903745",
+    "submission_url": "https://codeforces.com/contest/999/submission/378903745",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Jun/15/2026 04:07"
   }
 }
