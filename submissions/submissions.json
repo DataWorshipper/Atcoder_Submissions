@@ -831,6 +831,22 @@
     ],
     "timestamp": "Jun/18/2026 14:30"
   },
+  "AC76768066": {
+    "contest_id": "abc393",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc393/abc393E GCD_of_Subset.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "GCD of Subset",
+    "problem_url": "https://atcoder.jp/contests/abc393/tasks/abc393_e",
+    "submission_id": "AC76768066",
+    "submission_url": "https://atcoder.jp/contests/abc393/submissions/76768066",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jun/18/2026 20:58"
+  },
   "AC76768560": {
     "contest_id": "abc406",
     "language": "C++23 (GCC 15.2.0)",
