@@ -1,4 +1,20 @@
 {
+  "AC76756856": {
+    "contest_id": "dp",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/dp/dpM Candies.cpp",
+    "platform": "AtCoder",
+    "problem_index": "M",
+    "problem_name": "Candies",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_m",
+    "submission_id": "AC76756856",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/76756856",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/18/2026 10:31"
+  },
   "AC76757991": {
     "contest_id": "abc253",
     "language": "C++23 (GCC 15.2.0)",
