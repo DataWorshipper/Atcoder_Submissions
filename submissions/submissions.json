@@ -1,4 +1,20 @@
 {
+  "AC76760648": {
+    "contest_id": "abc353",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc353/abc353E Yet_Another_Sigma_Problem.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Yet Another Sigma Problem",
+    "problem_url": "https://atcoder.jp/contests/abc353/tasks/abc353_e",
+    "submission_id": "AC76760648",
+    "submission_url": "https://atcoder.jp/contests/abc353/submissions/76760648",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/18/2026 13:48"
+  },
   "AC76761487": {
     "contest_id": "abc322",
     "language": "C++23 (GCC 15.2.0)",
