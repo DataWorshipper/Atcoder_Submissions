@@ -1,1 +1,18 @@
-{}
+{
+  "AC76768560": {
+    "contest_id": "abc406",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc406/abc406E Popcount_Sum_3.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Popcount Sum 3",
+    "problem_url": "https://atcoder.jp/contests/abc406/tasks/abc406_e",
+    "submission_id": "AC76768560",
+    "submission_url": "https://atcoder.jp/contests/abc406/submissions/76768560",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Jun/18/2026 21:13"
+  }
+}
