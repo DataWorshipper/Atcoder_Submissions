@@ -1,4 +1,20 @@
 {
+  "AC76761487": {
+    "contest_id": "abc322",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc322/abc322E Product_Development.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Product Development",
+    "problem_url": "https://atcoder.jp/contests/abc322/tasks/abc322_e",
+    "submission_id": "AC76761487",
+    "submission_url": "https://atcoder.jp/contests/abc322/submissions/76761487",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jun/18/2026 14:30"
+  },
   "AC76768560": {
     "contest_id": "abc406",
     "language": "C++23 (GCC 15.2.0)",
