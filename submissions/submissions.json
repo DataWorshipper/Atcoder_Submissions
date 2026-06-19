@@ -879,6 +879,22 @@
     ],
     "timestamp": "Jun/19/2026 00:11"
   },
+  "AC76787057": {
+    "contest_id": "abc336",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc336/abc336E Digit_Sum_Divisible.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Digit Sum Divisible",
+    "problem_url": "https://atcoder.jp/contests/abc336/tasks/abc336_e",
+    "submission_id": "AC76787057",
+    "submission_url": "https://atcoder.jp/contests/abc336/submissions/76787057",
+    "tags": [
+      "AtCoder",
+      "*525"
+    ],
+    "timestamp": "Jun/20/2026 00:29"
+  },
   "AC76787669": {
     "contest_id": "abc347",
     "language": "C++23 (GCC 15.2.0)",
