@@ -879,6 +879,22 @@
     ],
     "timestamp": "Jun/19/2026 00:11"
   },
+  "AC76787669": {
+    "contest_id": "abc347",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc347/abc347D Popcount_and_XOR.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Popcount and XOR",
+    "problem_url": "https://atcoder.jp/contests/abc347/tasks/abc347_d",
+    "submission_id": "AC76787669",
+    "submission_url": "https://atcoder.jp/contests/abc347/submissions/76787669",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/20/2026 02:30"
+  },
   "AC76795596": {
     "contest_id": "abc177",
     "language": "C++23 (GCC 15.2.0)",
