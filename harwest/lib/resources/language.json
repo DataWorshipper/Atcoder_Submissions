@@ -102,6 +102,7 @@
   "Prolog (SWI-Prolog 8.0.3)": "pl",
   "PyPy 2": "py",
   "PyPy 3": "py",
+  "PyPy 3-64": "py",
   "PyPy2 (7.3.0)": "py",
   "PyPy3 (7.3.0)": "py",
   "Python (3.8.2)": "py",
