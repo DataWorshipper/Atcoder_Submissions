@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jun/20/2026 14:48"
   },
+  "AC76803184": {
+    "contest_id": "abc463",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc463/abc463A 16_9.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "16:9",
+    "problem_url": "https://atcoder.jp/contests/abc463/tasks/abc463_a",
+    "submission_id": "AC76803184",
+    "submission_url": "https://atcoder.jp/contests/abc463/submissions/76803184",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/20/2026 18:02"
+  },
   "AC76807992": {
     "contest_id": "abc463",
     "language": "C++23 (GCC 15.2.0)",
