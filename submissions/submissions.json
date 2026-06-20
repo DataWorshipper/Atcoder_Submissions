@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jun/20/2026 14:48"
   },
+  "AC76819311": {
+    "contest_id": "abc463",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc463/abc463C Tallest_at_the_Moment.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Tallest at the Moment",
+    "problem_url": "https://atcoder.jp/contests/abc463/tasks/abc463_c",
+    "submission_id": "AC76819311",
+    "submission_url": "https://atcoder.jp/contests/abc463/submissions/76819311",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/20/2026 18:14"
+  },
   "AC76833128": {
     "contest_id": "abc463",
     "language": "C++23 (GCC 15.2.0)",
