@@ -396,16 +396,16 @@
 </tr>
 <tr>
 <td align="center">53</td>
-<td><a href="https://codeforces.com/contest/670/problem/D1"><b>D1</b> - Magic Powder - 1</a></td>
-<td align="center"><a href="https://codeforces.com/contest/670/submission/359224884" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>implementation</code> <code>*1400</code></td>
+<td><a href="https://codeforces.com/contest/670/problem/D2"><b>D2</b> - Magic Powder - 2</a></td>
+<td align="center"><a href="https://codeforces.com/contest/670/submission/359224846" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
+<td><code>binary search</code> <code>implementation</code> <code>*1500</code></td>
 <td align="center"><sub>Jan/22/2026 21:11</sub></td>
 </tr>
 <tr>
 <td align="center">54</td>
-<td><a href="https://codeforces.com/contest/670/problem/D2"><b>D2</b> - Magic Powder - 2</a></td>
-<td align="center"><a href="https://codeforces.com/contest/670/submission/359224846" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>implementation</code> <code>*1500</code></td>
+<td><a href="https://codeforces.com/contest/670/problem/D1"><b>D1</b> - Magic Powder - 1</a></td>
+<td align="center"><a href="https://codeforces.com/contest/670/submission/359224884" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
+<td><code>binary search</code> <code>brute force</code> <code>implementation</code> <code>*1400</code></td>
 <td align="center"><sub>Jan/22/2026 21:11</sub></td>
 </tr>
 <tr>
@@ -977,6 +977,6 @@
 
 <div align="center">
 
-*Last Updated: June 20, 2026 at 00:59 BDT (UTC+6)*
+*Last Updated: June 21, 2026 at 00:16 BDT (UTC+6)*
 
 </div>
