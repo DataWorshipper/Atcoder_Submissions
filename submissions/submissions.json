@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jun/20/2026 14:48"
   },
+  "AC76807992": {
+    "contest_id": "abc463",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc463/abc463B Train_Reservation.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Train Reservation",
+    "problem_url": "https://atcoder.jp/contests/abc463/tasks/abc463_b",
+    "submission_id": "AC76807992",
+    "submission_url": "https://atcoder.jp/contests/abc463/submissions/76807992",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/20/2026 18:04"
+  },
   "AC76819311": {
     "contest_id": "abc463",
     "language": "C++23 (GCC 15.2.0)",
