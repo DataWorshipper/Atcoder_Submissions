@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jun/20/2026 14:48"
   },
+  "AC76842514": {
+    "contest_id": "abc463",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc463/abc463E Roads_and_Gates.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Roads and Gates",
+    "problem_url": "https://atcoder.jp/contests/abc463/tasks/abc463_e",
+    "submission_id": "AC76842514",
+    "submission_url": "https://atcoder.jp/contests/abc463/submissions/76842514",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Jun/20/2026 19:05"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
