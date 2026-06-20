@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jun/20/2026 14:48"
   },
+  "AC76833128": {
+    "contest_id": "abc463",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc463/abc463D Maximize_the_Gap.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Maximize the Gap",
+    "problem_url": "https://atcoder.jp/contests/abc463/tasks/abc463_d",
+    "submission_id": "AC76833128",
+    "submission_url": "https://atcoder.jp/contests/abc463/submissions/76833128",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/20/2026 18:39"
+  },
   "AC76842514": {
     "contest_id": "abc463",
     "language": "C++23 (GCC 15.2.0)",
