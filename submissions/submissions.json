@@ -1007,6 +1007,22 @@
     ],
     "timestamp": "Jun/20/2026 19:05"
   },
+  "AC76919906": {
+    "contest_id": "abc304",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc304/abc304D A_Piece_of_Cake.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "A Piece of Cake",
+    "problem_url": "https://atcoder.jp/contests/abc304/tasks/abc304_d",
+    "submission_id": "AC76919906",
+    "submission_url": "https://atcoder.jp/contests/abc304/submissions/76919906",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/23/2026 23:24"
+  },
   "AC76920193": {
     "contest_id": "abc364",
     "language": "C++23 (GCC 15.2.0)",
