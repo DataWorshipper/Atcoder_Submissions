@@ -1007,6 +1007,22 @@
     ],
     "timestamp": "Jun/20/2026 19:05"
   },
+  "AC76920397": {
+    "contest_id": "abc241",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc241/abc241D Sequence_Query.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Sequence Query",
+    "problem_url": "https://atcoder.jp/contests/abc241/tasks/abc241_d",
+    "submission_id": "AC76920397",
+    "submission_url": "https://atcoder.jp/contests/abc241/submissions/76920397",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/24/2026 00:55"
+  },
   "AC76928439": {
     "contest_id": "abc372",
     "language": "C++23 (GCC 15.2.0)",
