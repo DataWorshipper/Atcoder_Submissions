@@ -1007,6 +1007,22 @@
     ],
     "timestamp": "Jun/20/2026 19:05"
   },
+  "AC76928439": {
+    "contest_id": "abc372",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc372/abc372E K-th_Largest_Connected_Components.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "K-th Largest Connected Components",
+    "problem_url": "https://atcoder.jp/contests/abc372/tasks/abc372_e",
+    "submission_id": "AC76928439",
+    "submission_url": "https://atcoder.jp/contests/abc372/submissions/76928439",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Jun/24/2026 14:02"
+  },
   "AC76930078": {
     "contest_id": "abc348",
     "language": "C++23 (GCC 15.2.0)",
