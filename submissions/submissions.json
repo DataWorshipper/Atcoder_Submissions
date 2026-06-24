@@ -1007,6 +1007,22 @@
     ],
     "timestamp": "Jun/20/2026 19:05"
   },
+  "AC76930078": {
+    "contest_id": "abc348",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc348/abc348D Medicines_on_Grid.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Medicines on Grid",
+    "problem_url": "https://atcoder.jp/contests/abc348/tasks/abc348_d",
+    "submission_id": "AC76930078",
+    "submission_url": "https://atcoder.jp/contests/abc348/submissions/76930078",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Jun/24/2026 15:21"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
