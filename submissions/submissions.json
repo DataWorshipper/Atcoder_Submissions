@@ -1087,6 +1087,22 @@
     ],
     "timestamp": "Jun/24/2026 15:21"
   },
+  "AC76937727": {
+    "contest_id": "dp",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/dp/dpU Grouping.cpp",
+    "platform": "AtCoder",
+    "problem_index": "U",
+    "problem_name": "Grouping",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_u",
+    "submission_id": "AC76937727",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/76937727",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/25/2026 00:38"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
