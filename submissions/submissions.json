@@ -1119,6 +1119,22 @@
     ],
     "timestamp": "Jun/25/2026 00:38"
   },
+  "AC76954888": {
+    "contest_id": "abc284",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc284/abc284E Count_Simple_Paths.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Count Simple Paths",
+    "problem_url": "https://atcoder.jp/contests/abc284/tasks/abc284_e",
+    "submission_id": "AC76954888",
+    "submission_url": "https://atcoder.jp/contests/abc284/submissions/76954888",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/26/2026 00:36"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
