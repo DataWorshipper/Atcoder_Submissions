@@ -1135,6 +1135,22 @@
     ],
     "timestamp": "Jun/26/2026 00:36"
   },
+  "AC76974795": {
+    "contest_id": "abc188",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc188/abc188E Peddler.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Peddler",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_e",
+    "submission_id": "AC76974795",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/76974795",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/26/2026 22:29"
+  },
   "AC76975743": {
     "contest_id": "abc277",
     "language": "C++23 (GCC 15.2.0)",
