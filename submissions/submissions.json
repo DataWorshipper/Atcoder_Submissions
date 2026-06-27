@@ -1135,6 +1135,22 @@
     ],
     "timestamp": "Jun/26/2026 00:36"
   },
+  "AC76996234": {
+    "contest_id": "abc464",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc464/abc464B Crop.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Crop",
+    "problem_url": "https://atcoder.jp/contests/abc464/tasks/abc464_b",
+    "submission_id": "AC76996234",
+    "submission_url": "https://atcoder.jp/contests/abc464/submissions/76996234",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/27/2026 18:07"
+  },
   "AC77017151": {
     "contest_id": "abc464",
     "language": "C++23 (GCC 15.2.0)",
