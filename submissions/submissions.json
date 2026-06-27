@@ -1135,6 +1135,22 @@
     ],
     "timestamp": "Jun/26/2026 00:36"
   },
+  "AC77026920": {
+    "contest_id": "abc464",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc464/abc464C Plumage_Palette.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Plumage Palette",
+    "problem_url": "https://atcoder.jp/contests/abc464/tasks/abc464_c",
+    "submission_id": "AC77026920",
+    "submission_url": "https://atcoder.jp/contests/abc464/submissions/77026920",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/27/2026 19:21"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
