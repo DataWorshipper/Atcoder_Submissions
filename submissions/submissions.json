@@ -1135,6 +1135,22 @@
     ],
     "timestamp": "Jun/26/2026 00:36"
   },
+  "AC76989551": {
+    "contest_id": "abc464",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": "atcoder/abc464/abc464A Decisive_Battle.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Decisive Battle",
+    "problem_url": "https://atcoder.jp/contests/abc464/tasks/abc464_a",
+    "submission_id": "AC76989551",
+    "submission_url": "https://atcoder.jp/contests/abc464/submissions/76989551",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/27/2026 18:01"
+  },
   "AC76996234": {
     "contest_id": "abc464",
     "language": "C++23 (GCC 15.2.0)",
