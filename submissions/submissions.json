@@ -1231,6 +1231,21 @@
     ],
     "timestamp": "Jun/27/2026 19:21"
   },
+  "AC77155844": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "adt_all_20250910_1",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/adt_all_20250910_1/tasks/abc400_d",
+    "submission_id": "AC77155844",
+    "submission_url": "https://atcoder.jp/contests/adt_all_20250910_1/submissions/77155844",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/04/2026 15:37"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
