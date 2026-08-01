@@ -1651,6 +1651,51 @@
     ],
     "timestamp": "Jul/29/2026 01:16"
   },
+  "AC77999938": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc469",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc469/tasks/abc469_a",
+    "submission_id": "AC77999938",
+    "submission_url": "https://atcoder.jp/contests/abc469/submissions/77999938",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/01/2026 18:01"
+  },
+  "AC78005001": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc469",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc469/tasks/abc469_b",
+    "submission_id": "AC78005001",
+    "submission_url": "https://atcoder.jp/contests/abc469/submissions/78005001",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/01/2026 18:04"
+  },
+  "AC78038670": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc469",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc469/tasks/abc469_d",
+    "submission_id": "AC78038670",
+    "submission_url": "https://atcoder.jp/contests/abc469/submissions/78038670",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/01/2026 19:03"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
