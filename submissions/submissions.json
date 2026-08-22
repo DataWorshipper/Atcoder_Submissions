@@ -1816,6 +1816,66 @@
     ],
     "timestamp": "Aug/15/2026 18:50"
   },
+  "AC78587862": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc472",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc472/tasks/abc472_a",
+    "submission_id": "AC78587862",
+    "submission_url": "https://atcoder.jp/contests/abc472/submissions/78587862",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/22/2026 18:02"
+  },
+  "AC78591374": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc472",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc472/tasks/abc472_b",
+    "submission_id": "AC78591374",
+    "submission_url": "https://atcoder.jp/contests/abc472/submissions/78591374",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/22/2026 18:04"
+  },
+  "AC78603494": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc472",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc472/tasks/abc472_d",
+    "submission_id": "AC78603494",
+    "submission_url": "https://atcoder.jp/contests/abc472/submissions/78603494",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/22/2026 18:16"
+  },
+  "AC78610958": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc472",
+    "language": "C++23 (GCC 15.2.0)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc472/tasks/abc472_c",
+    "submission_id": "AC78610958",
+    "submission_url": "https://atcoder.jp/contests/abc472/submissions/78610958",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/22/2026 18:28"
+  },
   "CF312160899": {
     "__info_message": "Info: storing URL",
     "contest_id": 270,
